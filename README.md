@@ -13,7 +13,7 @@
   <a href="https://howse-delta.vercel.app/">웹사이트</a> ·
   <a href="https://howse-delta.vercel.app/docs/">문서</a> ·
   <a href="CHANGELOG.md">변경 이력</a> ·
-  <a href="https://github.com/swimit/howse/issues/new/choose">문제 신고</a>
+  <a href="https://github.com/swimit-io/howse/issues/new/choose">문제 신고</a>
 </p>
 
 <p align="center">
@@ -55,4 +55,4 @@ Intel Mac, Windows, Linux용 빌드는 제공하지 않습니다. 설치와 첫 
 
 ## 문제 신고
 
-[문제 신고 양식](https://github.com/swimit/howse/issues/new/choose)에 앱 버전, macOS 버전, 사용한 CLI와 재현 방법을 알려 주세요. 공개 이슈에는 비밀번호, 토큰, 개인 대화나 비공개 프로젝트 파일을 올리지 마세요.
+[문제 신고 양식](https://github.com/swimit-io/howse/issues/new/choose)에 앱 버전, macOS 버전, 사용한 CLI와 재현 방법을 알려 주세요. 공개 이슈에는 비밀번호, 토큰, 개인 대화나 비공개 프로젝트 파일을 올리지 마세요.
