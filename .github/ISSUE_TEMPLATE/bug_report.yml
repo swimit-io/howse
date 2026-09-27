@@ -1,0 +1,39 @@
+name: 문제 신고
+description: Howse의 문제와 재현 방법을 알려 주세요.
+title: "[문제] "
+body:
+  - type: markdown
+    attributes:
+      value: 공개 이슈입니다. 토큰, 개인 대화, 비공개 프로젝트 내용은 제거해 주세요.
+  - type: input
+    id: app-version
+    attributes:
+      label: Howse 버전
+      placeholder: 앱에 표시되는 버전을 적어 주세요.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: macOS 및 에이전트 CLI 버전
+      placeholder: macOS 버전, Codex 또는 Claude Code CLI 버전을 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 재현 방법
+      description: 문제가 발생한 순서를 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-actual
+    attributes:
+      label: 기대한 결과와 실제 결과
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 추가 정보
+      description: 민감한 내용을 제거한 오류 메시지나 화면을 첨부할 수 있습니다.
