@@ -22,9 +22,9 @@
 
 ## 다운로드
 
-**서명·공증을 갖춘 첫 공개 빌드를 준비하고 있습니다.** 현재 공개 설치 파일은 없습니다.
+**macOS Apple Silicon용 Howse 0.6.0을 공개했습니다.** Apple Developer ID로 서명하고 공증한 설치 파일입니다.
 
-[Mac용 Howse 출시 알림 받기](https://howse-delta.vercel.app/#get)
+[Howse 0.6.0 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.6.0) · [다운로드 및 설치 안내](https://howse-delta.vercel.app/#get)
 
 ## Howse에서 하는 일
 
