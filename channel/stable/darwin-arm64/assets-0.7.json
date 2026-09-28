@@ -1,0 +1,14 @@
+{
+  "schema": "howse.ui-asset-ledger/v1",
+  "series": "0.7",
+  "assets": {
+    "assets/App-B-IOczoz.css": "b6c0c7750896820817d719f9c2aaa6b449481514244d6917599f0201d2a5225b",
+    "assets/App-CoH0Bsul.js": "53f011c7efc82f8243bddb6bbaf477a7b540f21c61c01c2641ce7dba34156492",
+    "assets/apple-touch-icon-C5WHY-i7.png": "382e254f353a5ce7f5932a519d49abd97c33c3e8fb1e5c80c1e5a0a94d8ce498",
+    "assets/favicon-32-C6Oi3qyc.png": "de0c1ff3c74cd2c8bef17e1ef2ef5eb66d2985952a16211872438edf8c5abe5d",
+    "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
+    "assets/index-DKy3f9ln.css": "359577325325881f891f118d35b8be7d2e92451c9f4be7886eec3acef4252293",
+    "assets/index-Dw3Lp0an.js": "017a0204acf915a61aad749cc54800dbda2301860ae4d0fb1b029ce78bd88ae4",
+    "assets/unsavedChanges-4OhH5f5M.js": "d0460192d7dc0484f853bb409e667266af9a0f6679b16836f5b56907d4800762"
+  }
+}
