@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.6.0",
+  "releases": [
+    {
+      "version": "0.6.0",
+      "updateTo": {
+        "version": "0.6.0",
+        "name": "Howse 0.6.0",
+        "notes": "첫 공개 macOS Apple Silicon 빌드입니다.\n\n- 같은 메이저·마이너 계열의 패치는 앱과 작업 세션을 재시작하지 않고 자동 적용됩니다.\n- 마이너·메이저 업데이트는 앱에서 사용자가 버튼으로 승인한 뒤 적용합니다.\n",
+        "pub_date": "2026-09-28T08:53:18.340Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.6.0/Howse-0.6.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
