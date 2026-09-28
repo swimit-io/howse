@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.8.0",
+  "releases": [
+    {
+      "version": "0.8.0",
+      "updateTo": {
+        "version": "0.8.0",
+        "name": "Howse 0.8.0",
+        "notes": "메시지 메뉴에서 나중에 저장하거나 제거하고, 사이드바 나중에 목록에서 저장 시간순으로 모아 볼 수 있습니다.\n\n승인한 업데이트가 실패하면 버전 줄에 이유를 표시하며, 서명 불일치는 DMG 설치 안내를 제공합니다.\n\n코어 변경이 포함된 마이너 업데이트입니다. 앱에서 업데이트 버튼으로 승인한 뒤 적용합니다. macOS Apple Silicon용 서명·공증 배포입니다.\n",
+        "pub_date": "2026-09-28T13:39:17.508Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.8.0/Howse-0.8.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
