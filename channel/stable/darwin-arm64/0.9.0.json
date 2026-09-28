@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.9.0",
+  "releases": [
+    {
+      "version": "0.9.0",
+      "updateTo": {
+        "version": "0.9.0",
+        "name": "Howse 0.9.0",
+        "notes": "완료된 주제 분리는 새 주제 열기 링크로 표시합니다. 시작에 실패한 분리에만 다시 시도와 분리 취소를 제공합니다.\n\n서버 변경이 포함된 마이너 업데이트로, 앱에서 업데이트 버튼을 눌러 승인한 뒤 적용합니다. 이번 게시 대상은 macOS Apple Silicon입니다.\n",
+        "pub_date": "2026-09-28T15:35:37.469Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.9.0/Howse-0.9.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
