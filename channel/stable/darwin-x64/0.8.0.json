@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.8.0",
+  "releases": [
+    {
+      "version": "0.8.0",
+      "updateTo": {
+        "version": "0.8.0",
+        "name": "Howse 0.8.0",
+        "notes": "Howse 0.8.0의 Intel Mac(x64) 설치 파일과 업데이트 채널을 추가합니다. 기존 0.8.0 소스와 동일한 커밋을 사용하며, Apple Developer ID 서명과 공증을 적용합니다. 실제 Intel 기기는 미검증이며 Rosetta x64 환경에서 패키징합니다.\n",
+        "pub_date": "2026-09-28T13:55:18.518Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.8.0/Howse-0.8.0-mac-x64.zip"
+      }
+    }
+  ]
+}
