@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.8.0",
+  "releases": [
+    {
+      "version": "0.8.0",
+      "updateTo": {
+        "version": "0.8.0",
+        "name": "Howse 0.8.0",
+        "notes": "Howse 0.8.0 Windows x64 베타를 공개합니다.\n\nWindows 설치 파일은 Authenticode 미서명 베타입니다. 보안 설정에 따라 경고 또는 차단될 수 있습니다. 업데이트 피드의 Ed25519 서명과 자산 SHA-256 검증은 유지합니다.\n",
+        "pub_date": "2026-09-28T14:59:05.481Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.8.0/Howse-0.8.0-win-x64-full.nupkg"
+      }
+    }
+  ]
+}
