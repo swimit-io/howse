@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 사용 문서
+  - name: Documentation
     url: https://howse-delta.vercel.app/docs/
-    about: 설치 조건, 실행 방식과 문제 해결 안내를 확인하세요.
-  - name: 출시 알림
-    url: https://howse-delta.vercel.app/#get
-    about: 첫 공개 Mac 빌드의 출시 알림을 신청하세요.
+    about: Requirements, execution modes, and troubleshooting.
+  - name: Download Howse
+    url: https://github.com/swimit-io/howse/releases/latest
+    about: Get the latest installers for macOS and Windows (beta).
