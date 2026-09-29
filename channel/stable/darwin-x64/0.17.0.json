@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.17.0",
+  "releases": [
+    {
+      "version": "0.17.0",
+      "updateTo": {
+        "version": "0.17.0",
+        "name": "Howse 0.17.0",
+        "notes": "Howse 0.17.0\n\n- 채널에 예약 메시지와 반복 전송을 추가했습니다.\n- howse:// 링크를 앱 안에서 엽니다.\n- 내 활동 메뉴에 알림 아이콘을 적용했습니다.\n- 예약 편집기 재진입 시 다시 열리는 문제를 수정했습니다.\n",
+        "pub_date": "2026-09-29T14:01:36.579Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.17.0/Howse-0.17.0-mac-x64.zip"
+      }
+    }
+  ]
+}
