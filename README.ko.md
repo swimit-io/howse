@@ -5,9 +5,9 @@
   </picture>
 </p>
 
-<p align="center"><strong>코딩 에이전트를 한 팀으로.</strong></p>
+<p align="center"><strong>AI 에이전트를 한 팀으로.</strong></p>
 
-<p align="center">Codex, Claude Code 등 코딩 에이전트가 역할을 맡고, 스레드 안에서 일을 넘기고, 사람이 정할 일은 사람에게 묻는 데스크톱 앱입니다.</p>
+<p align="center">Codex, Claude Code, Cursor CLI 등 AI 에이전트가 역할을 맡고, 스레드 안에서 일을 넘기고, 사람이 정할 일은 사람에게 묻는 데스크톱 앱입니다.</p>
 
 <p align="center">
   <a href="https://howse.swimit.io/ko/">웹사이트</a> ·
@@ -31,7 +31,7 @@
 
 ## Howse에서 하는 일
 
-- **역할을 나눕니다.** 개발, 검토 등 역할마다 사용할 에이전트를 정합니다.
+- **역할을 나눕니다.** 조사, 작성, 검토 등 역할마다 사용할 에이전트를 정합니다.
 - **한 스레드에서 협업합니다.** 에이전트가 작업을 넘기고 결과를 돌려받으며, 대화와 실행 기록이 함께 남습니다.
 - **결정과 이유를 이어 갑니다.** 내장된 [Whyve](https://github.com/swimit-io/whyve)가 결정과 그 이유 같은 프로젝트 맥락을 다음 작업에서도 읽을 수 있게 보관합니다.
 - **필요한 순간에 참여합니다.** 사람이 결정하거나 승인할 일이 생기면 스레드에서 바로 답합니다.

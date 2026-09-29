@@ -5,9 +5,9 @@
   </picture>
 </p>
 
-<p align="center"><strong>Run your coding agents as a team.</strong></p>
+<p align="center"><strong>Run your AI agents as a team.</strong></p>
 
-<p align="center">A desktop app where Codex, Claude Code, and other coding agents take on roles, hand work to each other in threads, and check with you when a decision needs a human.</p>
+<p align="center">A desktop app where Codex, Claude Code, Cursor CLI, and other AI agents take on roles, hand work to each other in threads, and check with you when a decision needs a human.</p>
 
 <p align="center">
   <a href="https://howse.swimit.io/">Website</a> ·
