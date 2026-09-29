@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.10.0",
+  "releases": [
+    {
+      "version": "0.10.0",
+      "updateTo": {
+        "version": "0.10.0",
+        "name": "Howse 0.10.0",
+        "notes": "Antigravity·Kimi Code·Qwen Code·Cursor 연동, 복사 버튼, 내 활동·나중에 표시와 필터, 프로젝트 설정 재구성을 포함합니다. 서버·provider 변경이 포함된 마이너 업데이트이며 앱에서 업데이트를 승인한 뒤 재시작하여 적용합니다.\n\nmacOS Intel용 서명·공증 설치물입니다.\n",
+        "pub_date": "2026-09-29T02:32:14.136Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.10.0/Howse-0.10.0-mac-x64.zip"
+      }
+    }
+  ]
+}
