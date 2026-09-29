@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.16.0",
+  "releases": [
+    {
+      "version": "0.16.0",
+      "updateTo": {
+        "version": "0.16.0",
+        "name": "Howse 0.16.0",
+        "notes": "새 설치에서 집사가 활성·자동응답 켜짐 상태로 시작합니다. 기존 설치 설정은 유지합니다. 비활성 집사·서기의 자동 옵션을 잠그고, 채널 응답자 미지정 표시를 명확히 했습니다.\n",
+        "pub_date": "2026-09-29T13:00:23.780Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.16.0/Howse-0.16.0-win-x64-full.nupkg"
+      }
+    }
+  ]
+}
