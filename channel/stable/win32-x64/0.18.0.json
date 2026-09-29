@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.18.0",
+  "releases": [
+    {
+      "version": "0.18.0",
+      "updateTo": {
+        "version": "0.18.0",
+        "name": "Howse 0.18.0",
+        "notes": "Howse 0.18.0\n\n- 예약 편집기의 입력 칸과 요일·스레드 선택 배치를 개선했습니다.\n- 예약 입력 오류 안내와 부가 문구를 정리했습니다.\n- 채널 작성기의 예약 버튼을 전송 버튼 바로 왼쪽에 배치했습니다.\n",
+        "pub_date": "2026-09-29T16:11:45.525Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.18.0/Howse-0.18.0-win-x64-full.nupkg"
+      }
+    }
+  ]
+}
