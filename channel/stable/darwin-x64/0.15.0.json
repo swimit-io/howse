@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.15.0",
+  "releases": [
+    {
+      "version": "0.15.0",
+      "updateTo": {
+        "version": "0.15.0",
+        "name": "Howse 0.15.0",
+        "notes": "Howse 0.15.0\n\n- 역할 상세 패널의 주제·역할 이름을 등록 즉시 갱신합니다.\n- 채널별 기본 응답자를 지정하고 사용 가능한 지정 대상이 없으면 집사가 받도록 개선했습니다.\n- 채널 설정을 공통 설정과 채널별 서브메뉴로 정리했습니다.\n",
+        "pub_date": "2026-09-29T12:23:19.525Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.15.0/Howse-0.15.0-mac-x64.zip"
+      }
+    }
+  ]
+}
