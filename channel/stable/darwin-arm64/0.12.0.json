@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.12.0",
+  "releases": [
+    {
+      "version": "0.12.0",
+      "updateTo": {
+        "version": "0.12.0",
+        "name": "Howse 0.12.0",
+        "notes": "영문 화면의 잘림과 줄바꿈을 개선하고, 설정 화면과 타이포그래피를 정리했습니다. 프로바이더 목록을 정렬하고 Gemini CLI 지원을 종료했습니다. 내장 에이전트의 기본 이름을 영어로 통일하고 역할·설명을 앱 언어에 맞게 표시합니다. 업데이트 버튼과 읽지 않은 멘션 답글의 표시도 개선했습니다.\n",
+        "pub_date": "2026-09-29T09:01:29.641Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.12.0/Howse-0.12.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
