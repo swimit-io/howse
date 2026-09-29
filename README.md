@@ -7,7 +7,7 @@
 
 <p align="center"><strong>Run your AI agents as a team.</strong></p>
 
-<p align="center">A desktop app where Codex, Claude Code, Cursor CLI, and other AI agents take on roles, hand work to each other in threads, and check with you when a decision needs a human.</p>
+<p align="center">A desktop app where Claude Code, Codex, Cursor CLI, and other AI agents take on roles, hand work to each other in threads, and check with you when a decision needs a human.</p>
 
 <p align="center">
   <a href="https://howse.swimit.io/">Website</a> ·
@@ -41,10 +41,10 @@ Once installed, Howse checks this repository for updates. Patch updates install 
 | | Requirement |
 |---|---|
 | Computer | A Mac with Apple silicon or an Intel processor, or a PC running 64-bit Windows 10 or 11 (beta) |
-| Agents | At least one supported agent CLI, installed and signed in, such as Codex CLI (0.154.0 or later) or Claude Code CLI (2.1.260 or later) |
+| Agents | At least one supported agent CLI, installed and signed in, such as Claude Code CLI (2.1.260 or later) or Codex CLI (0.154.0 or later) |
 | Tools | Whatever your tasks need, such as Git or npm |
 
-Node.js and Whyve are bundled with the app. Howse also works with Gemini CLI, OpenCode, GitHub Copilot CLI, Kimi Code, Qwen Code, Cursor CLI, and Antigravity CLI; see [Requirements](https://howse.swimit.io/docs/requirements/) for minimum versions. Linux isn't supported.
+Node.js and Whyve are bundled with the app. Howse also works with Cursor CLI, GitHub Copilot CLI, Antigravity CLI, OpenCode, Qwen Code, and Kimi Code; see [Requirements](https://howse.swimit.io/docs/requirements/) for minimum versions. Linux isn't supported.
 
 For installation and setting up your first project, see the [docs](https://howse.swimit.io/docs/).
 

@@ -7,7 +7,7 @@
 
 <p align="center"><strong>AI 에이전트를 한 팀으로.</strong></p>
 
-<p align="center">Codex, Claude Code, Cursor CLI 등 AI 에이전트가 역할을 맡고, 스레드 안에서 일을 넘기고, 사람이 정할 일은 사람에게 묻는 데스크톱 앱입니다.</p>
+<p align="center">Claude Code, Codex, Cursor CLI 등 AI 에이전트가 역할을 맡고, 스레드 안에서 일을 넘기고, 사람이 정할 일은 사람에게 묻는 데스크톱 앱입니다.</p>
 
 <p align="center">
   <a href="https://howse.swimit.io/ko/">웹사이트</a> ·
@@ -41,10 +41,10 @@
 | 항목 | 필요한 것 |
 |---|---|
 | 컴퓨터 | Apple Silicon 또는 Intel 프로세서 Mac, 또는 64비트 Windows 10·11 PC(베타) |
-| 에이전트 | 설치하고 로그인한 에이전트 CLI 하나 이상. 예: Codex CLI 0.154.0 이상, Claude Code CLI 2.1.260 이상 |
+| 에이전트 | 설치하고 로그인한 에이전트 CLI 하나 이상. 예: Claude Code CLI 2.1.260 이상, Codex CLI 0.154.0 이상 |
 | 작업 도구 | 맡길 작업에 필요한 Git, npm 등의 도구 |
 
-Node.js와 Whyve는 앱에 포함되어 있어 따로 설치하지 않아도 됩니다. Gemini CLI, OpenCode, GitHub Copilot CLI, Kimi Code, Qwen Code, Cursor CLI, Antigravity CLI도 쓸 수 있으며, 최소 버전은 [요구사항](https://howse.swimit.io/ko/docs/requirements/)에서 확인하세요. Linux는 지원하지 않습니다.
+Node.js와 Whyve는 앱에 포함되어 있어 따로 설치하지 않아도 됩니다. Cursor CLI, GitHub Copilot CLI, Antigravity CLI, OpenCode, Qwen Code, Kimi Code도 쓸 수 있으며, 최소 버전은 [요구사항](https://howse.swimit.io/ko/docs/requirements/)에서 확인하세요. Linux는 지원하지 않습니다.
 
 설치와 첫 프로젝트 설정은 [사용 문서](https://howse.swimit.io/ko/docs/)를 참고하세요.
 
