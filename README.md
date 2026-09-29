@@ -10,8 +10,8 @@
 <p align="center">A desktop app where Codex, Claude Code, and other coding agents take on roles, hand work to each other in threads, and check with you when a decision needs a human.</p>
 
 <p align="center">
-  <a href="https://howse-delta.vercel.app/">Website</a> ·
-  <a href="https://howse-delta.vercel.app/docs/">Docs</a> ·
+  <a href="https://howse.swimit.io/">Website</a> ·
+  <a href="https://howse.swimit.io/docs/">Docs</a> ·
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="https://github.com/swimit-io/howse/issues/new/choose">Report a bug</a> ·
   <a href="README.ko.md">한국어</a>
@@ -25,7 +25,7 @@
 
 **Howse 0.10.0 is available for macOS (Apple silicon and Intel) and, as a beta, for Windows x64.** The macOS installers are signed with an Apple Developer ID and notarized by Apple. The Windows installer isn't code-signed yet, so Windows may show a security warning when you run it.
 
-[Download the latest release](https://github.com/swimit-io/howse/releases/latest) · [Installation guide](https://howse-delta.vercel.app/docs/install/)
+[Download the latest release](https://github.com/swimit-io/howse/releases/latest) · [Installation guide](https://howse.swimit.io/docs/install/)
 
 Once installed, Howse checks this repository for updates. Patch updates install automatically; for minor and major updates, you click **Update** in the app.
 
@@ -44,17 +44,17 @@ Once installed, Howse checks this repository for updates. Patch updates install 
 | Agents | At least one supported agent CLI, installed and signed in, such as Codex CLI (0.154.0 or later) or Claude Code CLI (2.1.260 or later) |
 | Tools | Whatever your tasks need, such as Git or npm |
 
-Node.js and Whyve are bundled with the app. Howse also works with Gemini CLI, OpenCode, GitHub Copilot CLI, Kimi Code, Qwen Code, Cursor CLI, and Antigravity CLI; see [Requirements](https://howse-delta.vercel.app/docs/requirements/) for minimum versions. Linux isn't supported.
+Node.js and Whyve are bundled with the app. Howse also works with Gemini CLI, OpenCode, GitHub Copilot CLI, Kimi Code, Qwen Code, Cursor CLI, and Antigravity CLI; see [Requirements](https://howse.swimit.io/docs/requirements/) for minimum versions. Linux isn't supported.
 
-For installation and setting up your first project, see the [docs](https://howse-delta.vercel.app/docs/).
+For installation and setting up your first project, see the [docs](https://howse.swimit.io/docs/).
 
 ## Usage and privacy
 
 This repository hosts Howse downloads, release notes, and support. The app's source code isn't public.
 
-To use an agent, you need an account with that CLI's provider and must accept its terms. Requests, and any project content an agent reads, may be sent to its model provider. For permissions and data handling, see [Execution modes](https://howse-delta.vercel.app/docs/execution-modes/) and the [FAQ](https://howse-delta.vercel.app/docs/faq/).
+To use an agent, you need an account with that CLI's provider and must accept its terms. Requests, and any project content an agent reads, may be sent to its model provider. For permissions and data handling, see [Execution modes](https://howse.swimit.io/docs/execution-modes/) and the [FAQ](https://howse.swimit.io/docs/faq/).
 
-If you sign up for updates on the website, the [privacy notice](https://howse-delta.vercel.app/privacy/) explains what we collect.
+If you sign up for updates on the website, the [privacy notice](https://howse.swimit.io/privacy/) explains what we collect.
 
 ## Reporting a bug
 

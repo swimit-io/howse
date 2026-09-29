@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Documentation
-    url: https://howse-delta.vercel.app/docs/
+    url: https://howse.swimit.io/docs/
     about: Requirements, execution modes, and troubleshooting.
   - name: Download Howse
     url: https://github.com/swimit-io/howse/releases/latest
