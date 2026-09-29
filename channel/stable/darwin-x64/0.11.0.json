@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.11.0",
+  "releases": [
+    {
+      "version": "0.11.0",
+      "updateTo": {
+        "version": "0.11.0",
+        "name": "Howse 0.11.0",
+        "notes": "Windows 첫 실행의 잠금 폴더 권한 오류를 수정하고, 초기화가 중단된 데이터 폴더를 보존한 뒤 복구하도록 개선했습니다. 클라이언트 영문 문구와 서버 생성 메시지를 다듬고, 읽지 않은 멘션이 있는 답글 표시 및 에이전트 설정 문구를 개선했습니다.\n",
+        "pub_date": "2026-09-29T06:28:15.792Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.11.0/Howse-0.11.0-mac-x64.zip"
+      }
+    }
+  ]
+}
