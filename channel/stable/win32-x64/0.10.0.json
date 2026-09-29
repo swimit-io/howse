@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.10.0",
+  "releases": [
+    {
+      "version": "0.10.0",
+      "updateTo": {
+        "version": "0.10.0",
+        "name": "Howse 0.10.0",
+        "notes": "Antigravity·Kimi Code·Qwen Code·Cursor 연동, 복사 버튼, 내 활동·나중에 표시와 필터, 프로젝트 설정 재구성을 포함합니다. 서버·provider 변경이 포함된 마이너 업데이트이며 앱에서 업데이트를 승인한 뒤 재시작하여 적용합니다.\n\nWindows x64 미서명 베타입니다. 실행 시 Windows 보안 경고가 표시될 수 있습니다. 업데이트 피드 서명과 다운로드 해시 검증은 유지합니다.\n",
+        "pub_date": "2026-09-29T02:29:36.058Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.10.0/Howse-0.10.0-win-x64-full.nupkg"
+      }
+    }
+  ]
+}
