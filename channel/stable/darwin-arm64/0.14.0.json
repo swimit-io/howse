@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.14.0",
+  "releases": [
+    {
+      "version": "0.14.0",
+      "updateTo": {
+        "version": "0.14.0",
+        "name": "Howse 0.14.0",
+        "notes": "Howse 0.14.0\n\n- 업데이트와 재시작 버튼의 아이콘·툴팁을 구분했습니다.\n- 주제·역할 이름을 즉시 반영하고 기본 주제의 이름 지정 권한을 개선했습니다.\n- 현재 프로젝트를 다시 선택해도 채널·스레드 목록을 유지합니다.\n- 접힌 채널 우측 영역에서 버튼과 컨텍스트 아이콘 사이의 간격·구분선을 개선했습니다.\n",
+        "pub_date": "2026-09-29T10:49:21.326Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.14.0/Howse-0.14.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
