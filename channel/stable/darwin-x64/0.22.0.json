@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.22.0",
+  "releases": [
+    {
+      "version": "0.22.0",
+      "updateTo": {
+        "version": "0.22.0",
+        "name": "Howse 0.22.0",
+        "notes": "# Howse 0.22.0\n\n## English\n\n### What's new\n- Distinguish manually run saved tasks from scheduled executions in both channels and threads, including planned times and late-run indicators.\n- Review manual and scheduled executions together in a task's chronological execution history.\n\n### Changes\n- Simplify the Tasks list and details, move secondary actions into a menu, and let you add or remove a schedule while keeping execution history. Resume future one-time schedules directly, or choose a new time when the original time has passed.\n- Run agent-created schedules automatically at the times you requested. Unscheduled saved tasks remain available for manual execution.\n- Require your consent before an agent creates a task or post on its own initiative; an ordinary work instruction does not authorize a new saved task or schedule.\n- Keep sidebar and Settings update status synchronized with the verified download target. Show progress while downloading or applying, and offer restart controls when a full update is ready.\n\n## 한국어\n\n### What's new\n- 채널과 스레드에서 직접 실행한 저장 작업과 예약 실행의 출처를 구분하고, 예약 시각과 늦은 실행을 표시합니다.\n- 작업 상세에서 직접 실행과 예약 실행 이력을 시간순으로 함께 확인할 수 있습니다.\n\n### Changes\n- 작업 목록과 상세를 간결하게 정리하고 보조 동작을 메뉴로 옮겼습니다. 실행 이력을 유지하면서 스케줄을 추가하거나 제거할 수 있습니다. 미래의 1회 예약은 그대로 재개하고, 이미 지난 예약은 새 시각을 지정합니다.\n- 에이전트가 등록한 스케줄은 요청한 예약 시각에 자동 실행됩니다. 스케줄 없는 저장 작업은 직접 실행할 수 있습니다.\n- 에이전트가 스스로 작업 등록이나 게시를 제안하면 사용자의 동의를 먼저 받습니다. 일반적인 업무 지시만으로 새 저장 작업이나 예약 생성까지 허용하지 않습니다.\n- 사이드바와 설정의 업데이트 상태를 검증된 다운로드 대상에 맞춰 동기화했습니다. 다운로드·적용 진행을 표시하고 전체 업데이트가 준비되면 재시작 조작을 제공합니다.\n",
+        "pub_date": "2026-09-30T15:15:59.477Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.22.0/Howse-0.22.0-mac-x64.zip"
+      }
+    }
+  ]
+}
