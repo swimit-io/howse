@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.19.0",
+  "releases": [
+    {
+      "version": "0.19.0",
+      "updateTo": {
+        "version": "0.19.0",
+        "name": "Howse 0.19.0",
+        "notes": "Howse 0.19.0\n\n## English\n- Separate saved tasks from automatic schedules, and add editable task names and schedule source labels.\n- Use Escape to close the focused thread or preview and stop selected message cards.\n- Choose a default responder when adding a channel.\n- Improve the clerk conversation queue and allow deletion of message cards that have not started.\n- Align notification icons and text, and update the public documentation.\n\n## 한국어\n- 저장된 작업과 자동 실행 스케줄을 분리하고 작업 이름 편집과 예약 출처 표시를 추가했습니다.\n- ESC로 포커스된 스레드·프리뷰를 닫고 선택한 메시지 카드를 중단할 수 있습니다.\n- 채널 추가 시 기본 응답자를 선택할 수 있습니다.\n- 서기 대화 대기열을 개선하고 미실행 메시지 카드를 삭제할 수 있습니다.\n- 알림 아이콘과 글자 정렬을 개선하고 공개 문서를 갱신했습니다.\n",
+        "pub_date": "2026-09-30T04:21:41.089Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.19.0/Howse-0.19.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
