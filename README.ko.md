@@ -23,7 +23,7 @@
 
 ## 다운로드
 
-**Howse 0.10.0을 macOS(Apple Silicon·Intel)와 Windows x64 베타로 제공합니다.** macOS 설치 파일은 Apple Developer ID로 서명하고 Apple 공증을 받았습니다. Windows 설치 파일은 아직 코드 서명이 없어 실행할 때 Windows 보안 경고가 나타날 수 있습니다.
+**Howse를 macOS(Apple Silicon·Intel)와 Windows x64 베타로 제공합니다.** macOS 설치 파일은 Apple Developer ID로 서명하고 Apple 공증을 받았습니다. Windows 설치 파일은 아직 코드 서명이 없어 실행할 때 Windows 보안 경고가 나타날 수 있습니다.
 
 [최신 릴리스 내려받기](https://github.com/swimit-io/howse/releases/latest) · [설치 안내](https://howse.swimit.io/ko/docs/install/)
 
@@ -51,6 +51,10 @@ Node.js와 Whyve는 앱에 포함되어 있어 따로 설치하지 않아도 됩
 ## 사용과 개인정보
 
 이 저장소는 Howse의 다운로드, 릴리스 노트, 지원을 위한 공개 저장소입니다. 앱 소스 코드는 공개하지 않습니다.
+
+Howse 데스크톱은 무료입니다. 내 컴퓨터에서 내가 가진 에이전트 CLI와 계정으로 동작합니다. Howse Cloud는 출시되면 유료 서비스로 제공할 예정입니다.
+
+앱은 사용 통계나 분석 데이터를 보내지 않습니다. 인터넷에 연결하는 것은 이 저장소에서 업데이트를 확인하고 내려받을 때뿐입니다.
 
 에이전트를 사용하려면 각 CLI 제공사의 계정과 이용 조건을 따라야 합니다. 요청과 에이전트가 읽은 프로젝트 내용은 해당 모델 제공사로 전송될 수 있습니다. 실행 권한과 데이터 처리 범위는 [실행 모드](https://howse.swimit.io/ko/docs/execution-modes/)와 [자주 묻는 질문](https://howse.swimit.io/ko/docs/faq/)에서 확인하세요.
 

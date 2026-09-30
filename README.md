@@ -23,7 +23,7 @@
 
 ## Download
 
-**Howse 0.10.0 is available for macOS (Apple silicon and Intel) and, as a beta, for Windows x64.** The macOS installers are signed with an Apple Developer ID and notarized by Apple. The Windows installer isn't code-signed yet, so Windows may show a security warning when you run it.
+**Howse is available for macOS (Apple silicon and Intel) and, as a beta, for Windows x64.** The macOS installers are signed with an Apple Developer ID and notarized by Apple. The Windows installer isn't code-signed yet, so Windows may show a security warning when you run it.
 
 [Download the latest release](https://github.com/swimit-io/howse/releases/latest) · [Installation guide](https://howse.swimit.io/docs/install/)
 
@@ -51,6 +51,10 @@ For installation and setting up your first project, see the [docs](https://howse
 ## Usage and privacy
 
 This repository hosts Howse downloads, release notes, and support. The app's source code isn't public.
+
+Howse desktop is free. It runs on your computer with your own agent CLIs and accounts. Howse Cloud, when it launches, will be a paid service.
+
+The app doesn't send analytics or usage data. It connects to the internet only to check for updates and download them from this repository.
 
 To use an agent, you need an account with that CLI's provider and must accept its terms. Requests, and any project content an agent reads, may be sent to its model provider. For permissions and data handling, see [Execution modes](https://howse.swimit.io/docs/execution-modes/) and the [FAQ](https://howse.swimit.io/docs/faq/).
 
