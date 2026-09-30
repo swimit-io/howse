@@ -54,6 +54,8 @@ This repository hosts Howse downloads, release notes, and support. The app's sou
 
 Howse desktop is free. It runs on your computer with your own agent CLIs and accounts. Howse Cloud, when it launches, will be a paid service.
 
+Terms of use: [TERMS.md](TERMS.md).
+
 The app doesn't send analytics or usage data. It connects to the internet only to check for updates and download them from this repository.
 
 To use an agent, you need an account with that CLI's provider and must accept its terms. Requests, and any project content an agent reads, may be sent to its model provider. For permissions and data handling, see [Execution modes](https://howse.swimit.io/docs/execution-modes/) and the [FAQ](https://howse.swimit.io/docs/faq/).
