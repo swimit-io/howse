@@ -1,0 +1,17 @@
+{
+  "schema": "howse.ui-asset-ledger/v1",
+  "series": "0.21",
+  "assets": {
+    "assets/App-C3Ta7Xmr.css": "f0d9bf0301f28e627f5154cea4149e7b38d4c8fb9ab444e2a4a91383db2a9fca",
+    "assets/App-DZL8WyFU.js": "dc09b5e66982b6b70c498a0add6c8ab5c64f5c7e5f610058fb141755b9449f95",
+    "assets/apple-touch-icon-C5WHY-i7.png": "382e254f353a5ce7f5932a519d49abd97c33c3e8fb1e5c80c1e5a0a94d8ce498",
+    "assets/favicon-32-C6Oi3qyc.png": "de0c1ff3c74cd2c8bef17e1ef2ef5eb66d2985952a16211872438edf8c5abe5d",
+    "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
+    "assets/index-CWj8S1En.css": "32d3791183bd7df15459619d0041f1242da8e4bc9abe16aeecd308d23180339e",
+    "assets/index-Yu-IdX4n.js": "b27a9256e36c3ac2de48b2dc20fe89b22e4e0a01850095bcc1b2dceb515cda0c",
+    "assets/unsavedChanges-C2Oir8ro.js": "8cae0038c9e415e724b11f5a36400cab59179bd32fc910d82d60f2f114489a84",
+    "fonts/Inter-OFL.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "fonts/InterVariable-Italic.woff2": "e564f652916db6c139570fefb9524a77c4d48f30c92928de9db19b6b5c7a262a",
+    "fonts/InterVariable.woff2": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3"
+  }
+}
