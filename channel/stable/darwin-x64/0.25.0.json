@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.25.0",
+  "releases": [
+    {
+      "version": "0.25.0",
+      "updateTo": {
+        "version": "0.25.0",
+        "name": "Howse 0.25.0",
+        "notes": "## Changes\n\n- Resize neighboring panels with stable fold and restore transitions. Dragging beyond the minimum width folds an older panel while preserving the other outer panel's width; reversing the drag before release restores it. Dividers also support keyboard resizing and double-click reset.\n- Keep the most recent eligible mention target selected after sending a thread message. Incoming and outgoing mentions now share the same recency order, while the automatic target stays fixed during typing.\n\n## 변경 사항\n\n- 패널 경계를 드래그할 때 접힘과 복원 전환을 안정화했습니다. 최소 폭을 넘겨 당기면 오래전에 연 패널이 접히고 반대쪽 바깥 패널의 폭은 유지하며, 놓기 전에 반대로 드래그하면 복원됩니다. 키보드로 폭을 조절하거나 구분선을 두 번 눌러 초기화할 수도 있습니다.\n- 스레드 메시지를 보낸 뒤에도 최근의 사용 가능한 멘션 대상을 유지합니다. 수신·발신 멘션을 동일한 최신순으로 고르고, 입력하는 동안 자동 대상은 고정합니다.\n",
+        "pub_date": "2026-10-01T16:03:13.216Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.25.0/Howse-0.25.0-mac-x64.zip"
+      }
+    }
+  ]
+}
