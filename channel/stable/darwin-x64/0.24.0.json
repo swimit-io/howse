@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.24.0",
+  "releases": [
+    {
+      "version": "0.24.0",
+      "updateTo": {
+        "version": "0.24.0",
+        "name": "Howse 0.24.0",
+        "notes": "## Changes\n- List models for GitHub Copilot and Antigravity, with clearer sign-in and availability status. Copilot choices do not confirm account entitlements or free access.\n- Use manual model entry for tools that do not support model listing, without showing unavailable listing controls.\n- Prefer an installed provider for initial agents and use the CLI’s default model and effort settings. Existing saved agent settings are preserved.\n\n## 변경 사항\n- GitHub Copilot과 Antigravity 모델 목록을 조회하고 로그인·사용 가능 상태를 더 명확하게 표시합니다. Copilot 목록은 계정의 사용 권한이나 무료 이용 여부를 확인한 결과가 아닙니다.\n- 모델 목록 조회를 지원하지 않는 도구는 직접 입력으로 안내하고 조회 관련 버튼을 표시하지 않습니다.\n- 최초 에이전트 설정에서 설치된 제공자를 우선 선택하고 CLI 자체 모델·에포트 기본값을 사용합니다. 이미 저장된 에이전트 설정은 유지됩니다.\n",
+        "pub_date": "2026-10-01T04:21:26.178Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.24.0/Howse-0.24.0-mac-x64.zip"
+      }
+    }
+  ]
+}
