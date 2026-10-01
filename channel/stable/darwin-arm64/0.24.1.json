@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.24.1",
+  "releases": [
+    {
+      "version": "0.24.1",
+      "updateTo": {
+        "version": "0.24.1",
+        "name": "Howse 0.24.1",
+        "notes": "## Changes\n\n- Keep the most recently opened panels visible in narrow windows, hiding older panels first. List, thread, and artifact preview panels now share a 480px minimum width.\n- Choose a new agent's provider, model, and Effort in order; later fields become available after earlier selections.\n- Message navigation highlights now stay for one second and fade over one second.\n- Match the sidebar update button to the current theme and show restart/update warnings in automatically dismissed warning toasts.\n- Improve the readability of type labels in the right side panel.\n\n## 변경 사항\n\n- 좁은 창에서는 오래전에 연 패널부터 숨기고 최근에 연 패널을 보여 줍니다. 목록·스레드·아티팩트 미리보기의 최소 폭을 480px로 통일했습니다.\n- 새 에이전트의 제공자·모델·에포트를 순서대로 고르며, 앞선 선택 이후 다음 항목을 활성화합니다.\n- 메시지 이동 강조는 1초 유지한 뒤 1초 동안 사라집니다.\n- 사이드바 업데이트 버튼에 테마 배경색을 적용하고, 재시작·업데이트 경고를 자동으로 사라지는 경고 토스트로 표시합니다.\n- 오른쪽 패널의 종류 라벨을 더 쉽게 읽을 수 있도록 개선했습니다.\n",
+        "pub_date": "2026-10-01T11:23:47.006Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.24.1/Howse-0.24.1-mac-arm64.zip"
+      }
+    }
+  ]
+}
