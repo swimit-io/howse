@@ -3,6 +3,7 @@
   "series": "0.25",
   "assets": {
     "assets/App-9v2TQhat.css": "997984e2b549069236628a95c3dd9c3a59851210e6b6177f2d081650346f3747",
+    "assets/App-AFavb4wD.js": "2cb36b01a07abf1568dfcda56a5043639637d0236bfde287ffd5d678506b0e37",
     "assets/App-CXdcchYO.js": "b5ef9a01ace8ef90031264efc99ab57d4fabb884e6d3be6c9a2d7d2598746274",
     "assets/Inter-OFL-CkXC2-KD.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
     "assets/InterVariable-DiVDrmQJ.woff2": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3",
@@ -12,6 +13,9 @@
     "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
     "assets/index-BVmQ7ec5.css": "1d3116d70d60c9b4d30b11fa6e3782355a20e27015445f5d8ea96b5828c3f9b5",
     "assets/index-CcdJXl72.js": "41b551e5c375c257989b41d8d70ebd21ab0f897651df38e7f36ec960e54133b4",
-    "assets/unsavedChanges-BXPfEafC.js": "5430fab525553af108e2df86b1a17926efdf294cbccb511ef512f4ccaae0ec67"
+    "assets/index-DQcwodGi.js": "884683ffb626711e8fcb4bb73b7835416e4dd653facdc0e7e9de2590da239ec9",
+    "assets/index-DcgWTqwT.css": "819d84b7fb02b251f8e42d06a4618bc254e8fcdae9241f9ee5da82485d3727b9",
+    "assets/unsavedChanges-BXPfEafC.js": "5430fab525553af108e2df86b1a17926efdf294cbccb511ef512f4ccaae0ec67",
+    "assets/unsavedChanges-DYUxspUT.js": "aa2bd9f446abfd825748534b084531ca708a896b97c364f5dd8f6bcb5ddc7b1c"
   }
 }
