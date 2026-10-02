@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.0",
+  "releases": [
+    {
+      "version": "0.27.0",
+      "updateTo": {
+        "version": "0.27.0",
+        "name": "Howse 0.27.0",
+        "notes": "## What's new\n\n- Configure provider-specific execution options in agent, Butler, and project settings, and edit a role session's own options for its next turn.\n- Inspect sent and ignored provider options in run details.\n\n## Changes\n\n- Keep execution-option defaults separate from existing sessions and restrict options that conflict with Howse-managed settings or protected execution mode.\n\n## 새로운 기능\n\n- 동료·집사·프로젝트 설정에서 프로바이더별 실행옵션을 지정하고 역할 세션의 다음 실행 옵션을 수정할 수 있습니다.\n- 실행 상세에서 보낸 옵션과 무시한 옵션을 확인할 수 있습니다.\n\n## 변경 사항\n\n- 실행옵션 기본값과 기존 세션 설정을 분리하고, Howse 관리 설정이나 보호 모드와 충돌하는 옵션을 제한합니다.\n\n## Platform availability\n\n- This version is available for Apple Silicon and Intel Macs. Windows remains on 0.26.0 while a replacement build environment is prepared.\n\n## 플랫폼별 배포\n\n- 이번 버전은 Apple Silicon·Intel Mac에 배포합니다. 대체 빌드 환경을 준비하는 동안 Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-02T15:31:49.978Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.0/Howse-0.27.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
