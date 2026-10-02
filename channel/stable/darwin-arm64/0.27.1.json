@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.1",
+  "releases": [
+    {
+      "version": "0.27.1",
+      "updateTo": {
+        "version": "0.27.1",
+        "name": "Howse 0.27.1",
+        "notes": "## Changes\n\n- Keep reaction tooltips visible within panel and screen boundaries.\n- Keep managed artifact link navigation active during message rerenders.\n\n## 변경 사항\n\n- 반응 안내가 패널과 화면 경계에서 잘리지 않도록 표시 위치를 조정합니다.\n- 메시지 화면이 갱신되는 동안에도 관리 아티팩트 링크를 통한 문서 열기가 유지됩니다.\n\n## Platform availability\n\n- This version is available for Apple Silicon and Intel Macs. Windows remains on 0.26.0.\n\n## 플랫폼별 배포\n\n- 이번 버전은 Apple Silicon·Intel Mac에 배포합니다. Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-02T16:30:59.914Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.1/Howse-0.27.1-mac-arm64.zip"
+      }
+    }
+  ]
+}
