@@ -2,6 +2,7 @@
   "schema": "howse.ui-asset-ledger/v1",
   "series": "0.27",
   "assets": {
+    "assets/App-COwR42J9.js": "a788de5a218f0972d444d303007debc62a83a0c914bd744f57aa467332a4526c",
     "assets/App-DNityEej.js": "239154f5b4c5a091d9ca8eb934ec67ea9732cb2e74425034990bb1171c36e15d",
     "assets/App-QPtwwwgI.css": "3d5c39cf0aeef99d1e26b6bebaf269e34b2a3522b173f05afdd8a2bf98909da5",
     "assets/Inter-OFL-CkXC2-KD.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
@@ -12,6 +13,9 @@
     "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
     "assets/index-BSn050C5.js": "fa744629b521de9bf18632d8477d41f232fb30f24a342140fea6050f4a0ea0bb",
     "assets/index-CURWLCoA.css": "f85c1ebe9ef61d69b32eff070647c5b46cd5b6181e8732d01c7b634cb231ee26",
-    "assets/unsavedChanges-DPOhWZ0s.js": "a1e5269dab769ea49474e00e40596701f3d2aabe1241ee0a60b7c2afb00b8d38"
+    "assets/index-Cy3pa8am.css": "a296efe4d741addd51f39decfa6771836a775cb20251cd399c552c25c9bba1c5",
+    "assets/index-D_WfjBgT.js": "4761a8487221c9f67a1db8468e01aa4759173846efabbb7adcac3c421066cc48",
+    "assets/unsavedChanges-DPOhWZ0s.js": "a1e5269dab769ea49474e00e40596701f3d2aabe1241ee0a60b7c2afb00b8d38",
+    "assets/unsavedChanges-Jc65xu3-.js": "d7e001f43b0079f33936a32e66aac9d399571f9f7bc5592e9ea52e36e570d4b3"
   }
 }
