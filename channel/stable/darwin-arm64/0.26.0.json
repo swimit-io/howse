@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.26.0",
+  "releases": [
+    {
+      "version": "0.26.0",
+      "updateTo": {
+        "version": "0.26.0",
+        "name": "Howse 0.26.0",
+        "notes": "## What's new\n\n- See each agent turn's run duration on its result message, with queue time and continuation totals available in the tooltip.\n\n## Changes\n\n- Open managed artifact links in message bodies in Howse's viewer at the latest revision.\n- Keep Claude runs active until background work finishes, and show the active background task list.\n- Add linked folders and change channel focus while work is running or waiting. Replacing or removing existing linked folders remains restricted.\n\n## 새로운 기능\n\n- 에이전트의 결과 메시지에서 해당 실행의 소요 시간을 확인하고, 툴팁에서 큐 대기와 이어진 실행의 합산 시간을 볼 수 있습니다.\n\n## 변경 사항\n\n- 메시지 본문의 관리 아티팩트 링크를 최신 문서의 앱 뷰어로 연결합니다.\n- Claude의 백그라운드 작업이 끝날 때까지 실행을 유지하고 진행 중 작업 목록을 표시합니다.\n- 실행·대기 중에도 연결 폴더를 추가하고 채널 포커스를 바꿀 수 있습니다. 기존 연결 폴더의 교체·삭제 제한은 유지합니다.\n",
+        "pub_date": "2026-10-02T10:28:58.988Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.26.0/Howse-0.26.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
