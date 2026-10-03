@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.3",
+  "releases": [
+    {
+      "version": "0.27.3",
+      "updateTo": {
+        "version": "0.27.3",
+        "name": "Howse 0.27.3",
+        "notes": "## Changes\n\n- Restore divider positions for each combination of visible panels when panels are hidden and reopened or the window is resized.\n- Start divider adjustments from the panels’ current widths to keep resizing consistent.\n\n## 변경 사항\n\n- 패널이 숨겨졌다 다시 열리거나 창 크기가 바뀌어도 표시된 패널 조합별 구분선 위치를 복원합니다.\n- 구분선 조절을 현재 패널 폭에서 시작해 일관되게 크기를 조절합니다.\n\n## Platform availability\n\n- This version is available for Apple Silicon and Intel Macs. Windows remains on 0.26.0.\n\n## 플랫폼별 배포\n\n- 이번 버전은 Apple Silicon·Intel Mac에 배포합니다. Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-03T09:31:41.017Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.3/Howse-0.27.3-mac-arm64.zip"
+      }
+    }
+  ]
+}
