@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.2",
+  "releases": [
+    {
+      "version": "0.27.2",
+      "updateTo": {
+        "version": "0.27.2",
+        "name": "Howse 0.27.2",
+        "notes": "## Changes\n\n- Keep the bottom in view when resizing panels or expanding and collapsing message history.\n- Preserve the text or image position being read through layout changes and new messages, including your own messages.\n\n## 변경 사항\n\n- 패널 크기를 바꾸거나 메시지 기록을 펼치고 접어도 하단을 보고 있었다면 하단을 유지합니다.\n- 레이아웃이 바뀌거나 본인이 보낸 메시지를 포함한 새 메시지가 도착해도 읽던 텍스트·이미지 위치를 유지합니다.\n\n## Platform availability\n\n- This version is available for Apple Silicon and Intel Macs. Windows remains on 0.26.0.\n\n## 플랫폼별 배포\n\n- 이번 버전은 Apple Silicon·Intel Mac에 배포합니다. Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-03T08:25:14.723Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.2/Howse-0.27.2-mac-arm64.zip"
+      }
+    }
+  ]
+}
