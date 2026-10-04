@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.6",
+  "releases": [
+    {
+      "version": "0.27.6",
+      "updateTo": {
+        "version": "0.27.6",
+        "name": "Howse 0.27.6",
+        "notes": "## Changes\n\n- Restore hidden panels as soon as their minimum widths fit when resizing dividers, including after releasing and dragging again. Use the available space across neighboring panels before folding one.\n\n## 변경 사항\n\n- 구분선을 조절할 때 최소 너비가 확보되면 숨겨진 패널을 다시 표시합니다. 마우스를 놓고 다시 드래그해도 복원되며, 패널을 접기 전에 주변 패널의 여유 공간을 활용합니다.\n",
+        "pub_date": "2026-10-04T16:58:19.722Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.6/Howse-0.27.6-mac-arm64.zip"
+      }
+    }
+  ]
+}
