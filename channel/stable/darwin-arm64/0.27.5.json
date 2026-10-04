@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.5",
+  "releases": [
+    {
+      "version": "0.27.5",
+      "updateTo": {
+        "version": "0.27.5",
+        "name": "Howse 0.27.5",
+        "notes": "## Changes\n\n- Load older thread messages automatically when at most 20 reply cards remain above your reading position, regardless of card heights, if an older page is available.\n\n## 변경 사항\n\n- 스레드에서 현재 읽는 위치 앞에 답글 카드가 20개 이하로 남으면 카드 높이와 관계없이 더 과거 페이지가 있을 때 자동으로 불러옵니다.\n",
+        "pub_date": "2026-10-04T06:59:12.858Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.5/Howse-0.27.5-mac-arm64.zip"
+      }
+    }
+  ]
+}
