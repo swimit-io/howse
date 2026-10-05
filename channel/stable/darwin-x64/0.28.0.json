@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.28.0",
+  "releases": [
+    {
+      "version": "0.28.0",
+      "updateTo": {
+        "version": "0.28.0",
+        "name": "Howse 0.28.0",
+        "notes": "## Changes\n- Fixed a macOS startup failure caused by the native core being bundled inside the archive without the app's signing identity. Native modules are now unpacked, signed, and checked against the app's Team ID before publication.\n- Replaced the local server with the Rust core while retaining existing projects and conversations. This is a full app update that takes effect after relaunch.\n- Improved recovery when a context source is unavailable, and corrected scheduling, data-save failure handling, and run shutdown cleanup.\n- Resolved topic proposal cards now stay at their decision point in the conversation timeline instead of moving below newer messages.\n\nThis replaces the withdrawn initial 0.28.0 build. If you already installed that build, download this installer and replace the app: the same version number does not trigger an automatic update. Keep your existing data folder.\n\n## 변경 사항\n- 네이티브 코어가 앱의 서명 없이 압축 파일 안에 포함되어 macOS에서 앱이 열리지 않던 오류를 수정했습니다. 네이티브 모듈을 압축 밖에 두고 서명하며, 게시 전에 앱과 Team ID가 같은지 확인합니다.\n- 기존 프로젝트와 대화 데이터를 유지하면서 로컬 서버를 Rust 코어로 교체했습니다. 앱을 다시 실행한 뒤 적용되는 전체 앱 업데이트입니다.\n- 컨텍스트 원본을 사용할 수 없을 때의 복구를 개선하고, 예약 실행·데이터 저장 실패 처리·실행 종료 정리를 보정했습니다.\n- 결정된 주제 제안 카드가 새 메시지 아래로 이동하지 않고 결정 시점의 대화 타임라인에 남도록 수정했습니다.\n\n철회한 최초 0.28.0 빌드를 대체합니다. 이전 빌드를 이미 설치했다면 이 설치 파일로 앱을 교체하세요. 같은 버전 번호는 자동 업데이트되지 않습니다. 기존 데이터 폴더는 유지하세요.\n",
+        "pub_date": "2026-10-05T14:20:45.954Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.28.0/Howse-0.28.0-mac-x64.zip"
+      }
+    }
+  ]
+}
