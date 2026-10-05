@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.27.7",
+  "releases": [
+    {
+      "version": "0.27.7",
+      "updateTo": {
+        "version": "0.27.7",
+        "name": "Howse 0.27.7",
+        "notes": "## Changes\n\n- Show the active background task count in a collapsible summary, with task descriptions listed below when expanded.\n- Align icons, headings, and action buttons with the first line of notices and error messages.\n\n## 변경 사항\n\n- 진행 중인 백그라운드 작업 개수를 접을 수 있는 요약으로 표시하고, 펼치면 아래에서 각 작업의 설명을 볼 수 있도록 개선했습니다.\n- 안내와 오류 메시지의 아이콘, 제목, 조작 버튼을 본문 첫 줄에 맞춰 정렬했습니다.\n",
+        "pub_date": "2026-10-05T09:43:27.016Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.27.7/Howse-0.27.7-mac-x64.zip"
+      }
+    }
+  ]
+}
