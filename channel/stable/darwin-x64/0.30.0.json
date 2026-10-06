@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.30.0",
+  "releases": [
+    {
+      "version": "0.30.0",
+      "updateTo": {
+        "version": "0.30.0",
+        "name": "Howse 0.30.0",
+        "notes": "## Changes\n- Reduce startup delays by skipping recovery work for context records that have already been fully processed.\n- Improve startup scanning by reducing memory-allocation contention in the native core.\n\n## 변경 사항\n- 처리가 끝난 컨텍스트 기록의 복구 작업을 건너뛰어 앱 기동 지연을 줄였습니다.\n- 네이티브 코어의 메모리 할당 경합을 줄여 기동 스캔 성능을 개선했습니다.\n",
+        "pub_date": "2026-10-06T10:15:42.285Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.30.0/Howse-0.30.0-mac-x64.zip"
+      }
+    }
+  ]
+}
