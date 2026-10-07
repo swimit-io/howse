@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.32.0",
+  "releases": [
+    {
+      "version": "0.32.0",
+      "updateTo": {
+        "version": "0.32.0",
+        "name": "Howse 0.32.0",
+        "notes": "## What's new\n- Create tasks and schedules that reply in a specific thread, and open task lists from channel and thread headers.\n- Withdraw eligible unfinished requests by deleting their messages, with receipt confirmation for sessions that already received them.\n\n## Changes\n- Forward messages without mentions unchanged to the appropriate conversational role; remove automatic recipients and inserted mentions from the composer.\n- Clarify approval boundaries, delegation scope, and preservation of existing work in shared collaboration instructions.\n- Keep automatic context records focused on lasting value while preserving explicit requests to remember information.\n\n## 새로운 기능\n- 특정 스레드에 답글을 보내는 작업·예약을 만들고 채널·스레드 머리글에서 작업 목록을 엽니다.\n- 삭제 가능한 미완료 메시지를 삭제해 요청을 철회하며, 이미 요청을 받은 세션은 철회 알림 수신을 확인합니다.\n\n## 변경 사항\n- 멘션 없는 메시지를 알맞은 대화 역할에 원문 그대로 전달하고 입력창의 자동 수신자와 자동 멘션을 없앱니다.\n- 공통 협업 지침에서 승인 경계, 위임 범위와 기존 작업 보존 원칙을 명확히 합니다.\n- 자동 컨텍스트 기록은 지속적 가치에 집중하고 명시적 기록 요청은 보존합니다.\n",
+        "pub_date": "2026-10-07T07:18:45.729Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.32.0/Howse-0.32.0-mac-x64.zip"
+      }
+    }
+  ]
+}
