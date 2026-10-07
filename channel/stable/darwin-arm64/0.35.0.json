@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.35.0",
+  "releases": [
+    {
+      "version": "0.35.0",
+      "updateTo": {
+        "version": "0.35.0",
+        "name": "Howse 0.35.0",
+        "notes": "## What's new\n- Restore automatic mentions in thread composers, with an independent per-channel setting. Preselect the recent conversation partner while preserving manual mentions and draft choices.\n\n## Changes\n- Stop a running turn immediately when it serves only a deleted request. Turns also serving other requests receive a withdrawal notice; stopped roles receive it on their next run.\n\n## 새로운 기능\n- 스레드 입력창의 자동 멘션을 복원하고 채널별 독립 설정을 추가했습니다. 최근 대화 상대를 미리 선택하며 직접 고른 멘션과 초안 상태를 보존합니다.\n\n## 변경 사항\n- 삭제한 요청만 처리 중인 실행을 즉시 중지합니다. 다른 요청도 함께 처리 중이면 철회 알림을 전달하며, 중지한 역할에는 다음 실행 때 알립니다.\n",
+        "pub_date": "2026-10-07T10:50:30.159Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.35.0/Howse-0.35.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
