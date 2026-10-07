@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.31.0",
+  "releases": [
+    {
+      "version": "0.31.0",
+      "updateTo": {
+        "version": "0.31.0",
+        "name": "Howse 0.31.0",
+        "notes": "## What's new\n- Share each agent’s scope of responsibility with available teammates, and choose whether to hand work to a suggested teammate or let the current agent continue.\n\n## Changes\n- Clarify how project and personal instructions override adjustable built-in defaults. Exclude the Butler and Clerk from handoff proposals.\n- Add speech-bubble icons to message and thread links, and show clearer desktop error messages.\n\n## 새로운 기능\n- 에이전트의 담당 범위를 함께 일할 수 있는 동료에게 공유하고, 제안된 동료에게 인계할지 현재 에이전트가 계속할지 선택할 수 있습니다.\n\n## 변경 사항\n- 조정 가능한 기본 동작에 대한 프로젝트·개인 지침의 우선순위를 명시하고, 집사·서기를 인계 제안 대상에서 제외합니다.\n- 메시지·스레드 링크에 말풍선 아이콘을 붙이고 데스크톱 오류 문구를 정리했습니다.\n",
+        "pub_date": "2026-10-07T04:57:36.901Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.31.0/Howse-0.31.0-mac-x64.zip"
+      }
+    }
+  ]
+}
