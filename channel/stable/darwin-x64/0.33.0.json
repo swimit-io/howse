@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.33.0",
+  "releases": [
+    {
+      "version": "0.33.0",
+      "updateTo": {
+        "version": "0.33.0",
+        "name": "Howse 0.33.0",
+        "notes": "## What's new\n- Mention several roles of the same agent in one message, with an All roles option and separate session continuity for each role.\n\n## Changes\n- Hide a message immediately when withdrawing it; restore it with a notice and retry option if deletion fails or receipt is unconfirmed.\n- Remove withdrawn cards without waiting for an inactive session's next turn.\n- Keep Butler recipient selection out of the conversation display and show the actual recipient's receipt and execution status.\n- Compatibility: older app versions cannot read messages or drafts addressed to multiple roles.\n\n## 새로운 기능\n- 한 메시지에서 같은 에이전트의 여러 역할이나 모든 역할을 선택하고, 각 역할의 기존 세션을 이어갈 수 있습니다.\n\n## 변경 사항\n- 메시지 철회 시 카드를 즉시 숨기고, 삭제 실패나 수신 불명 시 알림과 함께 복구해 다시 시도할 수 있습니다.\n- 활성 턴이 없는 세션의 다음 실행을 기다리지 않고 철회한 카드를 삭제합니다.\n- 집사의 수신자 선별 과정은 숨기고 실제 받은 동료의 수신·실행 상태를 표시합니다.\n- 호환성: 구버전 앱은 여러 역할로 보낸 메시지와 초안을 읽지 못합니다.\n",
+        "pub_date": "2026-10-07T09:07:30.390Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.33.0/Howse-0.33.0-mac-x64.zip"
+      }
+    }
+  ]
+}
