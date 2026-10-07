@@ -1,0 +1,17 @@
+{
+  "schema": "howse.ui-asset-ledger/v1",
+  "series": "0.35",
+  "assets": {
+    "assets/App-CheJGfbP.css": "80f219d5eb66d24e5584e5971983b3bb71671f4a153c8160cad5d6fb3360bced",
+    "assets/App-_eKsE8tv.js": "af50f41102c1dbc8f2f9777428fb0f6d9f6ed0093bc4021332b1422c18d8e55d",
+    "assets/Inter-OFL-CkXC2-KD.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "assets/InterVariable-DiVDrmQJ.woff2": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3",
+    "assets/InterVariable-Italic-FCBEiFp6.woff2": "e564f652916db6c139570fefb9524a77c4d48f30c92928de9db19b6b5c7a262a",
+    "assets/apple-touch-icon-C5WHY-i7.png": "382e254f353a5ce7f5932a519d49abd97c33c3e8fb1e5c80c1e5a0a94d8ce498",
+    "assets/favicon-32-C6Oi3qyc.png": "de0c1ff3c74cd2c8bef17e1ef2ef5eb66d2985952a16211872438edf8c5abe5d",
+    "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
+    "assets/index-BFxjsoPr.js": "c0c3f878abaf18aa6c1e64e33f11a38b84ed1d128192c4faedada67d9b8b913d",
+    "assets/index-h2wlDnRn.css": "ceea3a5f98a9e09eada17bf967f17b8d2c66eb32c2c954f3a46850ba46ee2370",
+    "assets/unsavedChanges-BB7nFNke.js": "453f31dc19be1b1adee075544be91257895f98509a81a7b3823b83c7dc3764d6"
+  }
+}
