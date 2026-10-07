@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.36.0",
+  "releases": [
+    {
+      "version": "0.36.0",
+      "updateTo": {
+        "version": "0.36.0",
+        "name": "Howse 0.36.0",
+        "notes": "## What's new\n- Answer agent questions with single-choice or multiple-choice cards, including an Other option. Your selections remain visible after replying.\n- Answer context-recording candidates individually; unanswered candidates are not treated as approved.\n\n## Changes\n- Send free-text and Other answers with Enter, and add a line with Shift+Enter. Approval and handoff notes retain Enter for line breaks.\n\n## 새로운 기능\n- 에이전트 질문에 단일·복수 선택 카드와 기타 직접 입력으로 답할 수 있으며, 답변 후에도 선택 내용이 표시됩니다.\n- 컨텍스트 기록 후보별로 답할 수 있으며, 답하지 않은 후보는 승인으로 처리하지 않습니다.\n\n## 변경 사항\n- 주관식·기타 답변은 Enter로 보내고 Shift+Enter로 줄을 바꿉니다. 승인·인계 메모에서는 Enter 줄바꿈을 유지합니다.\n",
+        "pub_date": "2026-10-07T12:33:29.195Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.36.0/Howse-0.36.0-mac-x64.zip"
+      }
+    }
+  ]
+}
