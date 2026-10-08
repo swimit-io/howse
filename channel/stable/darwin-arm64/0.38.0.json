@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.38.0",
+  "releases": [
+    {
+      "version": "0.38.0",
+      "updateTo": {
+        "version": "0.38.0",
+        "name": "Howse 0.38.0",
+        "notes": "## Changes\n- Internal maintenance; no user-facing changes.\n\n## 변경 사항\n- 내부 유지보수이며 사용자에게 보이는 변경은 없습니다.\n",
+        "pub_date": "2026-10-08T10:04:36.100Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.38.0/Howse-0.38.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
