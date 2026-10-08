@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.37.1",
+  "releases": [
+    {
+      "version": "0.37.1",
+      "updateTo": {
+        "version": "0.37.1",
+        "name": "Howse 0.37.1",
+        "notes": "## Changes\n- Keep HTML and PDF previews visible when menus or popovers do not overlap the preview panel.\n\n## 변경 사항\n- 메뉴나 팝업이 미리보기 패널과 겹치지 않으면 HTML·PDF 미리보기를 계속 표시합니다.\n",
+        "pub_date": "2026-10-08T07:39:16.879Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.37.1/Howse-0.37.1-mac-x64.zip"
+      }
+    }
+  ]
+}
