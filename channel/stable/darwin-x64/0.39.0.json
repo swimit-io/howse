@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.39.0",
+  "releases": [
+    {
+      "version": "0.39.0",
+      "updateTo": {
+        "version": "0.39.0",
+        "name": "Howse 0.39.0",
+        "notes": "## What's new\n- Ask agents to update saved tasks, including their content and schedule, with your explicit instruction.\n- Keep collaboration documents and files as managed copies that remain available independently of workspace originals.\n\n## Changes\n- Preserve historical file-reference text while disabling access to workspace originals; retain managed artifacts and human-uploaded files.\n- Isolate HTML and read-only PDF previews and preserve their appearance when another panel covers them.\n- Improve automatic forwarding candidate selection and internal error reporting.\n- Clean up unused update files while preserving files needed for active use and recovery.\n- Keep remote access out of public Mac installers. Windows remains on 0.26.0.\n\n## 새로운 기능\n- 사용자 지시에 따라 에이전트가 등록 작업의 내용과 일정을 수정할 수 있습니다.\n- 협업 문서와 파일을 작업 폴더 원본에 의존하지 않는 관리 사본으로 보관합니다.\n\n## 변경 사항\n- 과거 파일 참조의 글은 남기고 작업 폴더 원본 열기를 비활성화합니다. 관리 아티팩트와 사람이 업로드한 파일은 유지합니다.\n- HTML·보기 전용 PDF 미리보기를 격리하고 다른 패널에 가려져도 표시를 유지합니다.\n- 자동전달 후보 선택과 내부 오류 안내를 개선합니다.\n- 사용이 끝난 업데이트 파일을 정리하며 현재 사용과 복구에 필요한 파일은 보존합니다.\n- 공개 Mac 설치본에는 원격 기능을 포함하지 않습니다. Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-14T14:30:19.195Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.39.0/Howse-0.39.0-mac-x64.zip"
+      }
+    }
+  ]
+}
