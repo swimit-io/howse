@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.41.0",
+  "releases": [
+    {
+      "version": "0.41.0",
+      "updateTo": {
+        "version": "0.41.0",
+        "name": "Howse 0.41.0",
+        "notes": "## What's new\n- Include the groundwork for mobile remote access in the desktop app, with GitHub/Google sign-in and server-controlled availability for new desktop connections. This release prepares desktop support; it does not announce a mobile app release or enable remote access for everyone.\n\n## Changes\n- Preserve existing signed-in connections and the user's remote-access setting when the server policy changes.\n\n## 새로운 기능\n- 모바일 원격 접속을 준비하는 데스크톱 기능을 포함했습니다. GitHub/Google 로그인과 신규 데스크톱 연결 허용 여부를 제어하는 서버 정책을 지원합니다. 이번 릴리스는 데스크톱 지원을 준비하는 변경이며, 모바일 앱 출시나 모든 사용자의 원격 접속 활성화를 의미하지 않습니다.\n\n## 변경 사항\n- 서버 정책이 바뀌어도 기존 로그인 연결과 사용자가 설정한 원격 접속 활성 상태를 유지합니다.\n",
+        "pub_date": "2026-10-16T10:02:23.343Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.41.0/Howse-0.41.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
