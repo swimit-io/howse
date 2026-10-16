@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.40.0",
+  "releases": [
+    {
+      "version": "0.40.0",
+      "updateTo": {
+        "version": "0.40.0",
+        "name": "Howse 0.40.0",
+        "notes": "## Changes\n- Refresh workspace readiness after reloads or renderer failures, and retain the previous app backup until the installed app answers a fresh workspace check.\n- Keep remote access out of public Mac installers. Windows remains on 0.26.0.\n\n## 변경 사항\n- 화면 재로딩이나 렌더러 오류 후 정상 기동 상태를 다시 확인하고, 설치된 앱이 현재 작업 화면 확인에 응답할 때까지 기존 앱 백업을 보존합니다.\n- 공개 Mac 설치본에는 원격 기능을 포함하지 않습니다. Windows는 0.26.0을 유지합니다.\n",
+        "pub_date": "2026-10-16T06:48:50.040Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.40.0/Howse-0.40.0-mac-arm64.zip"
+      }
+    }
+  ]
+}
