@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.42.0",
+  "releases": [
+    {
+      "version": "0.42.0",
+      "updateTo": {
+        "version": "0.42.0",
+        "name": "Howse 0.42.0",
+        "notes": "## What's new\n- Keep shared artifacts previewable: unsupported file attachments are stopped before publication, and agents are guided to present documents and code in a readable format.\n\n## 새로운 기능\n- 공유 아티팩트를 미리보기 가능한 형식으로 제공합니다. 지원하지 않는 파일은 게시 전에 차단하고, 에이전트가 문서와 코드를 읽을 수 있는 형식으로 작성하도록 안내합니다.\n",
+        "pub_date": "2026-10-17T03:51:45.675Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.42.0/Howse-0.42.0-mac-x64.zip"
+      }
+    }
+  ]
+}
