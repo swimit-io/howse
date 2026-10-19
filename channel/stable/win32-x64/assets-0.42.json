@@ -14,5 +14,6 @@
     "assets/index-CnG_8XY6.css": "2af0e76de58701c6eeafbca47fc237c04df6c9c9ce18e213cd295c5164c68b04",
     "assets/index-Cwo8L3-L.js": "fbcaf5a84df045612d9ae3ac376062cd8e6c99aa73706b36f68711facd73df4c",
     "assets/unsavedChanges-DdJqoHr7.js": "9cee8e8e57a5e53b187568199ab4d8b9863c4360da6dcf198eada8bbc18f1fae"
-  }
+  },
+  "patchesBlocked": true
 }
