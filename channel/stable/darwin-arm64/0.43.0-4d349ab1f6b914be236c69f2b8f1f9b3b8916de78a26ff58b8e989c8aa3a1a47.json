@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.43.0",
+  "releases": [
+    {
+      "version": "0.43.0",
+      "updateTo": {
+        "version": "0.43.0",
+        "name": "Howse 0.43.0",
+        "notes": "## What's new\n- Open up to four independent Howse work windows using project/channel menus, the thread header, or Cmd/Ctrl+N. Keep different conversations in view while sharing drafts for the same conversation.\n\n## Changes\n- Agent instructions now use messages for answers, questions, handoffs, results, and important effects, and make recipient-focused wording and output-language priorities explicit.\n\n## 새로운 기능\n- 프로젝트·채널 메뉴, 스레드 머리글, Cmd/Ctrl+N으로 독립 작업 창을 최대 4개까지 엽니다. 여러 대화를 함께 보면서 같은 대화의 초안을 창 사이에서 공유합니다.\n\n## 변경 사항\n- 에이전트가 답변·질문·인계·결과와 중요한 영향을 전달할 때 메시지를 쓰고, 상대에게 맞는 말투와 출력 언어의 우선순위를 따르도록 내장 지침을 개선했습니다.\n",
+        "pub_date": "2026-10-22T11:00:48.267Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.43.0/Howse-0.43.0-mac-arm64-4d349ab1f6b914be236c69f2b8f1f9b3b8916de78a26ff58b8e989c8aa3a1a47.zip"
+      }
+    }
+  ]
+}
