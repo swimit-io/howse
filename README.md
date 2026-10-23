@@ -29,6 +29,14 @@
 
 Once installed, Howse checks this repository for updates. Patch updates install automatically; for minor and major updates, you click **Update** in the app.
 
+## Latest release: 0.44.0
+
+- Open saved output folders directly from previews, and give linked folders clear display names.
+- The message composer grows with your text, and mention selection stays visible as you navigate by keyboard.
+- Paired desktops on the same account can exchange work through remote colleagues when the server supports desktop pairing. Device approval and online desktops are required.
+
+[0.44.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.44.0) · [Changelog](CHANGELOG.md)
+
 ## What Howse does
 
 - **Assign roles.** Choose which agent handles each role, such as development or review.
