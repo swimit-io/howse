@@ -27,15 +27,16 @@
 
 [Download the latest release](https://github.com/swimit-io/howse/releases/latest) · [Installation guide](https://howse.swimit.io/docs/install/)
 
-Once installed, Howse checks this repository for updates. Patch updates install automatically; for minor and major updates, you click **Update** in the app.
+Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.45.0
+## Latest release: 0.46.0
 
-- Follow active agents in a compact run bar and manage task states, stops, and retries in one window.
-- Keep conversations readable with one collapsed progress line for parallel work and one active entry per role.
-- Ask questions while work continues; agent instructions preserve the original task and completion criteria. Repeated context storage in long threads is reduced.
+- Fix startup recovery and Stop all when an old pending record refers to a missing message.
+- Keep open stop/retry confirmations in sync with execution locks.
+- Accept empty or omitted optional Codex instructions.
+- Full app update: restart after active work finishes. No cloud workspace features are added.
 
-[0.45.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.45.0) · [Changelog](CHANGELOG.md)
+[0.46.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.46.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

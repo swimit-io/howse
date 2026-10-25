@@ -2,6 +2,29 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.46.0 — 2026-10-25
+
+## Changes
+- Keep an open stop or retry confirmation in sync with current execution locks.
+- Recover startup when a question record refers to a missing message, without deleting user data.
+- Stop all work in a thread even when a pending routing item refers to a missing message.
+- Accept empty or omitted optional Codex instructions in native profile validation.
+
+## 변경 사항
+- 열린 중단·재시도 확인창에도 현재 실행 잠금을 적용합니다.
+- 원본 메시지가 없는 질문 기록이 있어도 사용자 데이터를 삭제하지 않고 시작 복구를 이어갑니다.
+- 대기 라우팅 항목의 메시지가 사라져도 스레드 전체 중단이 실패하지 않도록 고쳤습니다.
+- Codex 선택 지침이 비어 있거나 생략돼도 native 프로필 검증이 거절하지 않도록 고쳤습니다.
+
+This is a full app update. Restart after current work finishes to apply these fixes. Existing projects and conversations are preserved. No cloud workspace features, mobile store release, or server deployment is included.
+
+전체 앱 업데이트이며 진행 중인 작업이 끝난 뒤 재시작하면 적용됩니다. 기존 프로젝트와 대화는 보존됩니다. 클라우드 작업공간 기능·모바일 스토어·서버 배포는 포함하지 않습니다.
+
+Platforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.46.0)
+
 ## 0.45.0 — 2026-10-24
 
 ### What's new
