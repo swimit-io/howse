@@ -29,14 +29,14 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.46.0
+## Latest release: 0.47.0
 
-- Fix startup recovery and Stop all when an old pending record refers to a missing message.
-- Keep open stop/retry confirmations in sync with execution locks.
-- Accept empty or omitted optional Codex instructions.
-- Full app update: restart after active work finishes. No cloud workspace features are added.
+- Find active work, pending decisions, and unread final results in Work status; open a thread to continue.
+- New project vaults include assumptions and terms; existing vault settings stay unchanged.
+- Keep cross-thread handoff runs visible, open correctly named artifact copies, and accept empty optional Claude instructions.
+- Full app update: restart manually after active work finishes. No cloud workspace features are added.
 
-[0.46.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.46.0) · [Changelog](CHANGELOG.md)
+[0.47.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.47.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
