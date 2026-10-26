@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.47.0",
+  "releases": [
+    {
+      "version": "0.47.0",
+      "updateTo": {
+        "version": "0.47.0",
+        "name": "Howse 0.47.0",
+        "notes": "Howse 0.47.0 · 2026-10-27\n\n## What's new\n- Find threads with active work, pending decisions, and unread final results in Work status. Filter the list and open a thread to continue.\n- New project vaults enable assumptions and terms alongside decisions, intents, and documents. Existing vault settings are preserved.\n\n## Changes\n- Keep cross-thread handoff runs visible in the session index.\n- Open artifact copies with the saved filename and format, while preserving the managed original.\n- Accept empty or omitted optional Claude instructions during profile resolution and initialization.\n- Avoid subscribing to an empty conversation draft when no thread is selected, and report invalid task timing as an input error.\n\n## 새로운 기능\n- 작업 현황에서 진행 중인 스레드, 판단 대기 요청, 읽지 않은 최종 결과를 모아 봅니다. 종류별로 좁히고 스레드를 열어 대화를 이어갈 수 있습니다.\n- 새 프로젝트 저장소에서 결정·의도·문서와 함께 가정·용어를 기본 활성화합니다. 기존 저장소 설정은 유지합니다.\n\n## 변경 사항\n- 다른 스레드로 인계된 실행도 세션 표시에 유지합니다.\n- 아티팩트의 관리 원본을 보존하면서 저장된 파일명과 형식에 맞는 사본 폴더를 엽니다.\n- Claude 선택 지침이 비어 있거나 생략돼도 프로필 해석과 초기화를 진행합니다.\n- 스레드를 선택하지 않았을 때 빈 대화 초안을 구독하지 않으며, 잘못된 작업 일정은 입력 오류로 안내합니다.\n\nThis is a full app update. Restart manually after current work finishes. Cloud workspace features, mobile releases, and server redeployment are not included.\n전체 앱 업데이트입니다. 진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 작업공간 기능·모바일 출시·서버 재배포는 포함하지 않습니다.\n\nPlatforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).\n지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).\n\n[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.47.0)\n",
+        "pub_date": "2026-10-26T16:20:24.784Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.47.0/Howse-0.47.0-win-x64-full-1d9fbb3503882fa7c792afac36bae6b717a42d9857d21a838316112f00bcfc64.nupkg"
+      }
+    }
+  ]
+}
