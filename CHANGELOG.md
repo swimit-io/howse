@@ -2,6 +2,30 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.48.0 — 2026-10-27
+
+## What's new
+- Filter activity, threads, and Work status by project. Your selection is remembered across these lists.
+- Keep Work status on the left while opening a thread beside it.
+
+## Changes
+- Keep stopped turns visible in the run bar, with retry and dismissal controls. Dismiss failed or stopped turns in Manage without running them again.
+
+## 새로운 기능
+- 내 활동·스레드·작업 현황을 프로젝트별로 좁힙니다. 선택은 이 목록들에서 기억됩니다.
+- 작업 현황에서 스레드를 열어도 왼쪽 목록을 유지합니다.
+
+## 변경 사항
+- 중단된 턴을 실행바에 남기고 재시도와 확인 처리를 제공합니다. 관리 창에서 실패하거나 중단된 턴을 다시 실행하지 않고 확인 처리할 수 있습니다.
+
+Restart manually after current work finishes. Mobile source changes are not a mobile release; cloud workspace integration, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 모바일 소스 변경은 모바일 출시를 뜻하지 않으며, 클라우드 작업공간 통합·심사용 앱·서버 재배포는 포함하지 않습니다.
+
+Platforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.48.0)
+
 ## 0.47.0 — 2026-10-27
 
 ## What's new
