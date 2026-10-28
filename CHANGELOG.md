@@ -2,6 +2,36 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.49.0 — 2026-10-28
+
+## What's new
+- Pick each agent's avatar color from 12 presets or a custom color in its settings; the letter color adjusts automatically for readability. Thread message headers and avatars now stay pinned together within each card.
+- Open **Manage** in the run bar as a list above the bar, and expand a running turn to see the progress and background tasks it has posted. A retried or resumed turn continues in the same row.
+
+## Changes
+- Close a run as failed once saving works again when its final state could not be saved (for example, a full disk). It no longer stays running or blocks its retry.
+- Recover from context reads that need a complete re-read, and reduce duplicate output from MCP context reads.
+- Style the project selectors and match the unread toggle height.
+- Streamline the built-in agent protocol instructions for messages and roles.
+
+## 새로운 기능
+- 에이전트 설정에서 12색 팔레트나 직접 선택으로 아바타 색을 고릅니다. 글자색은 읽기 쉽게 자동으로 맞춥니다. 스레드 메시지 헤더와 아바타는 카드 안에서 함께 고정됩니다.
+- 실행바의 **관리**를 바 위에 펼쳐지는 목록으로 열고, 진행 중인 턴을 펼쳐 그 턴이 남긴 진행 기록과 백그라운드 작업을 봅니다. 재시도하거나 재개한 턴은 같은 행에서 이어집니다.
+
+## 변경 사항
+- 디스크가 가득 찬 경우처럼 종료 상태를 저장하지 못한 실행을, 저장이 가능해지면 실패로 닫습니다. 더 이상 진행 중으로 남거나 재시도를 막지 않습니다.
+- 컨텍스트를 전체 다시 읽어야 하는 경우의 복구를 추가하고, MCP 컨텍스트 조회의 중복 출력을 줄입니다.
+- 프로젝트 선택 상자의 스타일을 다듬고 읽지 않음 토글의 높이를 맞춥니다.
+- 메시지와 역할에 관한 내장 에이전트 프로토콜 지침을 간결하게 정리합니다.
+
+Restart manually after current work finishes. Mobile source changes are not a mobile release; cloud workspace integration, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 모바일 소스 변경은 모바일 출시를 뜻하지 않으며, 클라우드 작업공간 통합·심사용 앱·서버 재배포는 포함하지 않습니다.
+
+Platforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.49.0)
+
 ## 0.48.0 — 2026-10-27
 
 ## What's new
