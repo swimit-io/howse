@@ -29,13 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.50.0
+## Latest release: 0.51.0
 
-- Follow roles in a compact run list, with consistent activity indicators and a needs-reply badge in Work status.
-- See read-only agent IDs and teammates sorted by name.
-- Recover stopped turns and avoid duplicate failure cards or false failures after an answer was posted.
+- Channel reactions now follow each participating agent’s latest run, including retries and continuations.
+- A finished continuation clears a stale working reaction; reactions inside the thread stay specific to each message.
 
-[0.50.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.50.0) · [Changelog](CHANGELOG.md)
+[0.51.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.51.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

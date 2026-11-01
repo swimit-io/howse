@@ -2,6 +2,22 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.51.0 — 2026-11-02
+
+## Changes
+- Keep channel reactions aligned with each participating agent's latest run in the thread, including retries and continuations. A finished continuation now clears a stale working reaction in the channel list. Reactions inside the thread remain specific to each message.
+
+## 변경 사항
+- 채널 반응이 재시도·이어진 실행을 포함해 참여 에이전트별 마지막 실행 상태를 표시합니다. 이어진 실행이 완료됐는데 채널에 작업 중 표시가 남던 문제를 수정했습니다. 스레드 안의 반응은 기존처럼 개별 메시지를 기준으로 표시합니다.
+
+Restart manually after current work finishes. Cloud workspace integration, mobile releases, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 작업공간 통합·모바일 출시·심사용 앱·서버 재배포는 포함하지 않습니다.
+
+Platforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.51.0)
+
 ## 0.50.0 — 2026-11-02
 
 ## What's new
