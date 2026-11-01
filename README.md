@@ -29,13 +29,13 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.49.0
+## Latest release: 0.50.0
 
-- Pick each agent's avatar color from 12 presets or a custom color; the letter color adjusts automatically.
-- Open **Manage** in the run bar as a list above the bar and expand a running turn to see its progress.
-- Close runs whose final state could not be saved (for example, a full disk) as failed once saving works again.
+- Follow roles in a compact run list, with consistent activity indicators and a needs-reply badge in Work status.
+- See read-only agent IDs and teammates sorted by name.
+- Recover stopped turns and avoid duplicate failure cards or false failures after an answer was posted.
 
-[0.49.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.49.0) · [Changelog](CHANGELOG.md)
+[0.50.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.50.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

@@ -2,6 +2,38 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.50.0 — 2026-11-02
+
+## What's new
+- Follow each role in a compact, single-line run list. Work status now shows a needs-reply badge and an activity spinner, including when the sidebar is collapsed.
+- See each agent's read-only ID in its details. Teammates are sorted by name, with Butler before Clerk.
+
+## Changes
+- Keep the run bar, participant panel, and task details aligned on the currently running turn. Waiting only for the context clerk remains visible as active work.
+- Retry stopped turns without reviving cancelled sibling or child runs. Superseded sessions remain read-only and no longer leave stale failures in the run bar.
+- Keep failed turns in the run controls instead of duplicating interrupted cards in the conversation; hide acknowledged older error cards.
+- Finish successfully when an agent has already posted its answer and returns an empty final response.
+- Improve mention-chip hover feedback, message role labels, and run-list layout in narrow windows.
+
+## 새로운 기능
+- 역할마다 한 줄로 정리된 실행 목록에서 진행 상황을 봅니다. 작업 현황 메뉴에는 응답 필요 뱃지와 실행 스피너가 표시되며, 사이드바를 접어도 확인할 수 있습니다.
+- 에이전트 상세에서 읽기 전용 ID를 확인합니다. 동료 목록은 이름순으로 정렬하고 집사는 서기보다 앞에 둡니다.
+
+## 변경 사항
+- 실행바·참여자 패널·작업 상세가 현재 진행 중인 턴을 일관되게 표시합니다. 서기의 기록 답변만 기다리는 작업도 실행 중으로 보입니다.
+- 중단한 턴을 재시도해도 취소된 형제·하위 실행은 되살리지 않습니다. 교체된 세션은 읽기 전용으로 유지하고 실행바의 과거 실패 표시를 정리합니다.
+- 실패한 턴은 실행 목록에서 관리하고 대화에 중복 중단 카드를 만들지 않습니다. 확인한 과거 오류 카드도 숨깁니다.
+- 에이전트가 답변을 이미 게시한 뒤 빈 최종 응답을 반환해도 정상 완료합니다.
+- 멘션 칩의 호버 표시, 메시지 역할 라벨과 좁은 창의 실행 목록 배치를 다듬습니다.
+
+Restart manually after current work finishes. Cloud workspace integration, mobile releases, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 작업공간 통합·모바일 출시·심사용 앱·서버 재배포는 포함하지 않습니다.
+
+Platforms: macOS Apple silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.50.0)
+
 ## 0.49.0 — 2026-10-28
 
 ## What's new
