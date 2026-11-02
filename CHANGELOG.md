@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.52.0 — 2026-11-02
+
+## Changes
+- Let normally finished turns complete silently when the final response is empty, without an extra provider run or an invented message. An explicitly empty Codex final response no longer reuses earlier progress text as its final result.
+- Hide acknowledged past errors in run details as well as the conversation.
+
+- Fix scrolling in project colleague settings and align its colleague order with Teammates (Butler, Clerk, then enabled colleagues by name).
+
+## 변경 사항
+- 정상 종료한 턴은 최종 응답이 비어 있어도 추가 실행이나 생성 메시지 없이 조용히 완료됩니다. Codex의 명시적인 빈 최종 응답은 앞선 진행 문장을 최종 결과로 재사용하지 않습니다.
+- 확인한 과거 오류를 대화뿐 아니라 실행 상세에서도 숨깁니다.
+
+- 프로젝트 동료 설정의 스크롤을 수정하고, 동료 화면과 같은 순서(집사·기록관·활성 동료 이름순)로 정렬합니다.
+
+Restart manually after current work finishes. Cloud integration, mobile releases, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 통합·모바일 출시·심사용 앱·서버 재배포는 제외합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.52.0)
+
 ## 0.51.0 — 2026-11-02
 
 ## Changes

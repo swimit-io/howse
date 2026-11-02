@@ -29,12 +29,13 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.51.0
+## Latest release: 0.52.0
 
-- Channel reactions now follow each participating agent’s latest run, including retries and continuations.
-- A finished continuation clears a stale working reaction; reactions inside the thread stay specific to each message.
+- Normally finished turns with an empty final response now complete silently, without an extra run or invented message.
+- Explicitly empty Codex results no longer reuse progress text; acknowledged errors are hidden in run details.
+- Fix scrolling and colleague ordering in project colleague settings.
 
-[0.51.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.51.0) · [Changelog](CHANGELOG.md)
+[0.52.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.52.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
