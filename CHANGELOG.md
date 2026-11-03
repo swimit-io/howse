@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.53.0 — 2026-11-04
+
+## What's new
+- Save text, Markdown and HTML documents, images and PDFs from one button at the top of the artifact preview, with format-aware filenames.
+
+## Changes
+- Keep channel reactions consistent when opening a thread, using each colleague’s latest run state.
+
+## 새로운 기능
+- 아티팩트 미리보기 상단의 공통 저장 버튼으로 텍스트·Markdown·HTML 문서, 이미지와 PDF를 형식에 맞는 파일명으로 내보낼 수 있습니다.
+
+## 변경 사항
+- 스레드를 열어도 채널 반응이 동료별 마지막 실행 상태를 일관되게 표시합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+Restart manually after current work finishes. Cloud integration, mobile releases, review apps, and server redeployment are excluded.
+진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 통합·모바일 출시·심사용 앱·서버 재배포는 제외합니다.
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.53.0)
+
 ## 0.52.0 — 2026-11-02
 
 ## Changes

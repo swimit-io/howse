@@ -29,13 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.52.0
+## Latest release: 0.53.0
 
-- Normally finished turns with an empty final response now complete silently, without an extra run or invented message.
-- Explicitly empty Codex results no longer reuse progress text; acknowledged errors are hidden in run details.
-- Fix scrolling and colleague ordering in project colleague settings.
+- Export documents, images and PDFs from the common save button at the top of their preview.
+- Keep channel reactions consistent when opening a thread.
 
-[0.52.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.52.0) · [Changelog](CHANGELOG.md)
+[0.53.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.53.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
