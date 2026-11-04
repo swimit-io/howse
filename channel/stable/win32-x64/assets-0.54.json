@@ -2,17 +2,23 @@
   "schema": "howse.ui-asset-ledger/v1",
   "series": "0.54",
   "assets": {
+    "assets/App-BhxweO9z.css": "b682c5463dd0d09d5417ef82f38e635dbfdd0c86bae7a253d962327e7cb1441c",
     "assets/App-DTSvRm9N.js": "2a644c063cef1018611dd21d54b3d29ffe29e0a7ce7aacb7234170ba5fe39a41",
+    "assets/App-teLNj3fU.js": "7d4d081b38c89cb324ce2c88df83de6922ccb17b199b46d71b280259a7cef31d",
     "assets/App-w1KhT4dd.css": "8d791bf2e252fd68ec5853dca8ce2efa05fdc8f8c88e9a8688cfc13beaea6a45",
     "assets/Inter-OFL-CkXC2-KD.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
     "assets/InterVariable-DiVDrmQJ.woff2": "693b77d4f32ee9b8bfc995589b5fad5e99adf2832738661f5402f9978429a8e3",
     "assets/InterVariable-Italic-FCBEiFp6.woff2": "e564f652916db6c139570fefb9524a77c4d48f30c92928de9db19b6b5c7a262a",
+    "assets/RemoteSettings-C_GHtHEa.js": "3cc5a7b49987825d081c8ff105a95eaa14b528e38c4d7cf9464c6e0b2b4224b7",
     "assets/RemoteSettings-ChKea25t.js": "a616fa179e42fc1a2163fd0f41f0cc24cd23e03a1ea32c34dd96cf75aa49806e",
     "assets/apple-touch-icon-C5WHY-i7.png": "382e254f353a5ce7f5932a519d49abd97c33c3e8fb1e5c80c1e5a0a94d8ce498",
     "assets/favicon-32-C6Oi3qyc.png": "de0c1ff3c74cd2c8bef17e1ef2ef5eb66d2985952a16211872438edf8c5abe5d",
     "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
+    "assets/index-0AsXL9tE.css": "40514ad62ebeed95952925910d6b5f946b1d575849a17688f3f5705dd4adaee1",
     "assets/index-BHc7tdon.css": "ced514d6e2c2e63de1e4fa5a3cd4cb6eb256eeccea1f27576d5ebecbe4470da2",
+    "assets/index-CyIbXz53.js": "ebe65543d67f386e164f37d0ae4d2b5325c600a0990d3b14f83b031a9499ebc8",
     "assets/index-DGqWqu2V.js": "e17b168911665ab224b1757cd6bc62ae471e1216915154b17cfa864b9e3bd02b",
+    "assets/unsavedChanges-BGTnmcyj.js": "3a201a59d9433495c92a3418e1f8ebb5f7037324d0a76ebe9cc730fc9cca6b40",
     "assets/unsavedChanges-C_yWVQf0.js": "635a6c257d9b426e548877a9c5b91735ec90fd1b09de06f97665944a8518417d"
   }
 }
