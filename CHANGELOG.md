@@ -2,6 +2,29 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.54.1 — 2026-11-04
+
+## What's new
+- Keep attached artifact cards in one row and expand the remaining cards with a count button; collapse them again without losing your reading position.
+
+## Changes
+- Return to the bottom of a channel or thread with a dedicated button, and resume following new content when reaching the bottom.
+- Preserve reading position during layout changes and keep nested code-block scrolling independent.
+- Use singular and plural English labels for remaining artifact counts.
+
+## 새로운 기능
+- 메시지의 첨부 아티팩트 카드를 한 줄로 접고 남은 개수 버튼으로 펼칠 수 있습니다. 다시 접을 때도 읽던 위치를 유지합니다.
+
+## 변경 사항
+- 채널·스레드의 하단 이동 버튼으로 최신 대화로 돌아가며 맨 아래에 도달하면 새 내용 따라보기를 재개합니다.
+- 레이아웃이 바뀔 때 읽던 위치를 유지하고 코드 블록 안의 스크롤을 분리합니다.
+- 아티팩트 더보기 영어 안내의 단수·복수를 구분합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.54.1)
+
 ## 0.54.0 — 2026-11-04
 
 ## What's new

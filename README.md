@@ -29,12 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.54.0
+## Latest release: 0.54.1
 
-- Explicitly ask an agent to open a new thread in another project’s channel.
-- The new work runs in the destination project, with artifacts collected from the sending workspace. Destination, content and recipients require your instruction or approval.
+- Collapse attached artifact cards into one row and expand them on demand.
+- Return to the latest channel or thread messages and keep your reading position stable.
 
-[0.54.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.54.0) · [Changelog](CHANGELOG.md)
+[0.54.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.54.1) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
