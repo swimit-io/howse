@@ -2,6 +2,22 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.54.0 — 2026-11-04
+
+## What's new
+- Explicitly ask an agent to open a new thread in another project's channel. The new work uses the destination project while explicit artifact attachments come from the sender's workspace. Destination, content and recipients require your instruction or approval.
+
+## 새로운 기능
+- 에이전트에게 다른 프로젝트 채널의 새 스레드 개시를 명시적으로 요청할 수 있습니다. 새 작업은 대상 프로젝트에서 실행하며 명시적으로 첨부한 아티팩트는 보내는 작업 폴더에서 가져옵니다. 대상·내용·수신자에 대한 사용자 지시나 승인이 필요합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+Includes 0.53.0 artifact saving and channel reaction fixes. Restart manually after current work finishes. Cloud integration, mobile releases, review apps and server redeployment are excluded.
+0.53.0의 아티팩트 저장 통합과 채널 반응 수정을 포함합니다. 진행 중인 작업이 끝난 뒤 수동으로 재시작하세요. 클라우드 통합·모바일 출시·심사용 앱·서버 재배포는 제외합니다.
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.54.0)
+
 ## 0.53.0 — 2026-11-04
 
 ## What's new

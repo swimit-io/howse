@@ -29,12 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.53.0
+## Latest release: 0.54.0
 
-- Export documents, images and PDFs from the common save button at the top of their preview.
-- Keep channel reactions consistent when opening a thread.
+- Explicitly ask an agent to open a new thread in another project’s channel.
+- The new work runs in the destination project, with artifacts collected from the sending workspace. Destination, content and recipients require your instruction or approval.
 
-[0.53.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.53.0) · [Changelog](CHANGELOG.md)
+[0.54.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.54.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
