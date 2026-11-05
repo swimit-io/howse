@@ -2,6 +2,19 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.54.2 — 2026-11-06
+
+## Changes
+- Extend the focused message outline through its header so the entire selected message stays visible.
+
+## 변경 사항
+- 선택한 메시지의 강조 테두리가 헤더까지 이어지도록 개선했습니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.54.2)
+
 ## 0.54.1 — 2026-11-04
 
 ## What's new

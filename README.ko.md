@@ -29,12 +29,11 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.54.1
+## 최신 릴리스: 0.54.2
 
-- 첨부 아티팩트 카드를 한 줄로 접고 필요할 때 펼칠 수 있습니다.
-- 채널·스레드의 최신 대화로 이동하고 읽던 위치를 안정적으로 유지합니다.
+- 선택한 메시지의 강조 테두리가 헤더까지 이어집니다.
 
-[0.54.1 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.54.1) · [Changelog](CHANGELOG.md)
+[0.54.2 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.54.2) · [Changelog](CHANGELOG.md)
 
 ## Howse에서 하는 일
 

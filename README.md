@@ -29,12 +29,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.54.1
+## Latest release: 0.54.2
 
-- Collapse attached artifact cards into one row and expand them on demand.
-- Return to the latest channel or thread messages and keep your reading position stable.
+- Extend the focused message outline through its header.
 
-[0.54.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.54.1) · [Changelog](CHANGELOG.md)
+[0.54.2 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.54.2) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
