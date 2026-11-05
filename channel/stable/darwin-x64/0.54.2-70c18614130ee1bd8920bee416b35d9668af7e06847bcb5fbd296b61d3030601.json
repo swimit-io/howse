@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.54.2",
+  "releases": [
+    {
+      "version": "0.54.2",
+      "updateTo": {
+        "version": "0.54.2",
+        "name": "Howse 0.54.2",
+        "notes": "## Changes\n- Extend the focused message outline through its header so the entire selected message stays visible.\n\n## 변경 사항\n- 선택한 메시지의 강조 테두리가 헤더까지 이어지도록 개선했습니다.\n\nPlatforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).\n지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).\n\n[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.54.2)\n",
+        "pub_date": "2026-11-05T17:29:55.928Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.54.2/Howse-0.54.2-mac-x64-70c18614130ee1bd8920bee416b35d9668af7e06847bcb5fbd296b61d3030601.zip"
+      }
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "schema": "howse.ui-asset-ledger/v1",
   "series": "0.54",
   "assets": {
+    "assets/App-BBRS8xYk.js": "bf0d4ccc4960d2d0857aa7b15a4c57907f753e54a813e349f0513678c62a4d6b",
     "assets/App-BhxweO9z.css": "b682c5463dd0d09d5417ef82f38e635dbfdd0c86bae7a253d962327e7cb1441c",
     "assets/App-DTSvRm9N.js": "2a644c063cef1018611dd21d54b3d29ffe29e0a7ce7aacb7234170ba5fe39a41",
     "assets/App-teLNj3fU.js": "7d4d081b38c89cb324ce2c88df83de6922ccb17b199b46d71b280259a7cef31d",
@@ -11,14 +12,18 @@
     "assets/InterVariable-Italic-FCBEiFp6.woff2": "e564f652916db6c139570fefb9524a77c4d48f30c92928de9db19b6b5c7a262a",
     "assets/RemoteSettings-C_GHtHEa.js": "3cc5a7b49987825d081c8ff105a95eaa14b528e38c4d7cf9464c6e0b2b4224b7",
     "assets/RemoteSettings-ChKea25t.js": "a616fa179e42fc1a2163fd0f41f0cc24cd23e03a1ea32c34dd96cf75aa49806e",
+    "assets/RemoteSettings-DksMrGD7.js": "635027052a47755d8c291c1fc64b23a34e19c1bd51251affa7fc2f789540550b",
     "assets/apple-touch-icon-C5WHY-i7.png": "382e254f353a5ce7f5932a519d49abd97c33c3e8fb1e5c80c1e5a0a94d8ce498",
     "assets/favicon-32-C6Oi3qyc.png": "de0c1ff3c74cd2c8bef17e1ef2ef5eb66d2985952a16211872438edf8c5abe5d",
     "assets/favicon-BRSY8QR8.svg": "45ce370e2b930b5f7ac325cc2252f75bbfeea69786c3b8ad1597451a46ac3f96",
     "assets/index-0AsXL9tE.css": "40514ad62ebeed95952925910d6b5f946b1d575849a17688f3f5705dd4adaee1",
     "assets/index-BHc7tdon.css": "ced514d6e2c2e63de1e4fa5a3cd4cb6eb256eeccea1f27576d5ebecbe4470da2",
     "assets/index-CyIbXz53.js": "ebe65543d67f386e164f37d0ae4d2b5325c600a0990d3b14f83b031a9499ebc8",
+    "assets/index-D12jJWYn.css": "d9dd40d8eb416830d519e22e87428d4dfa8eee6d04fc60b5af4a2c90517c1adb",
     "assets/index-DGqWqu2V.js": "e17b168911665ab224b1757cd6bc62ae471e1216915154b17cfa864b9e3bd02b",
+    "assets/index-takfldlt.js": "3f965f362dab30908f78c59658991b5ff6fe43f48d4921d5d14c02509386609f",
     "assets/unsavedChanges-BGTnmcyj.js": "3a201a59d9433495c92a3418e1f8ebb5f7037324d0a76ebe9cc730fc9cca6b40",
+    "assets/unsavedChanges-BkuOw6SR.js": "2ecc25d9b1eefe84d7aa6ae70c6c874523b73c0a7a82bf1998b32ffe730db5ae",
     "assets/unsavedChanges-C_yWVQf0.js": "635a6c257d9b426e548877a9c5b91735ec90fd1b09de06f97665944a8518417d"
   }
 }
