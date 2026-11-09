@@ -2,6 +2,33 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.55.0 — 2026-11-09
+
+## What's new
+- New macOS threads keep topic-level collaboration records in local files, and each role resumes from the position it last read. Existing threads and the Windows app keep the shared snapshot behavior.
+
+## Changes
+- Keep Claude runs active until their background tasks finish, and show the number of background tasks in the run bar.
+- Show **Preparing the report** while a turn that keeps collaboration records settles its result.
+- Apply the message jump highlight to the header as well, and keep the jump-to-bottom button readable on hover.
+- Route threads opened by agents the same way as threads opened by people.
+- Reduce context handling work on long conversation histories.
+
+## 새로운 기능
+- macOS의 새 스레드는 주제별 협업 기록을 로컬 파일로 남기고, 각 역할은 마지막으로 읽은 위치부터 이어갑니다. 기존 스레드와 Windows 앱은 공유 스냅샷 방식을 유지합니다.
+
+## 변경 사항
+- Claude 실행을 백그라운드 작업이 끝날 때까지 유지하고 실행바에 백그라운드 작업 개수를 표시합니다.
+- 협업 기록을 남기는 턴이 결과를 정리하는 동안 **보고 준비 중**으로 표시합니다.
+- 메시지 이동 강조를 헤더까지 적용하고 하단 이동 버튼의 hover 대비를 유지합니다.
+- 에이전트가 여는 스레드도 사람이 여는 스레드와 같은 방식으로 전달합니다.
+- 긴 대화 이력에서 컨텍스트 처리 부담을 줄였습니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.55.0)
+
 ## 0.54.2 — 2026-11-06
 
 ## Changes

@@ -29,11 +29,12 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.54.2
+## 최신 릴리스: 0.55.0
 
-- 선택한 메시지의 강조 테두리가 헤더까지 이어집니다.
+- macOS의 새 스레드는 주제별 협업 기록을 남기고, 각 역할은 마지막으로 읽은 위치부터 이어갑니다.
+- Claude 실행은 백그라운드 작업이 끝날 때까지 유지됩니다.
 
-[0.54.2 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.54.2) · [Changelog](CHANGELOG.md)
+[0.55.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.55.0) · [Changelog](CHANGELOG.md)
 
 ## Howse에서 하는 일
 
