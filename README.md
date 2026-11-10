@@ -29,12 +29,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.55.0
+## Latest release: 0.56.0
 
-- New macOS threads keep topic-level collaboration records, and each role resumes where it last read.
-- Claude runs stay active until their background tasks finish.
+- Final reports from retried or continued turns are delivered in threads that keep collaboration records.
 
-[0.55.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.55.0) · [Changelog](CHANGELOG.md)
+[0.56.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.56.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

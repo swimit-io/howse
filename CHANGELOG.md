@@ -2,6 +2,19 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.56.0 — 2026-11-10
+
+## Changes
+- Deliver the final report of a retried or continued turn in threads that keep collaboration records, instead of rejecting it as an identity conflict.
+
+## 변경 사항
+- 협업 기록을 남기는 스레드에서 재시도되거나 이어진 턴의 최종 보고를 신원 충돌로 거부하지 않고 정상적으로 전달합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.56.0)
+
 ## 0.55.0 — 2026-11-09
 
 ## What's new
