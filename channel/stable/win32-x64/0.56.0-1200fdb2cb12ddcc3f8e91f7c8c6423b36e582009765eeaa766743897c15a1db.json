@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.56.0",
+  "releases": [
+    {
+      "version": "0.56.0",
+      "updateTo": {
+        "version": "0.56.0",
+        "name": "Howse 0.56.0",
+        "notes": "## Changes\n- Deliver the final report of a retried or continued turn in threads that keep collaboration records, instead of rejecting it as an identity conflict.\n\n## 변경 사항\n- 협업 기록을 남기는 스레드에서 재시도되거나 이어진 턴의 최종 보고를 신원 충돌로 거부하지 않고 정상적으로 전달합니다.\n\nPlatforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).\n지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).\n\n[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.56.0)\n",
+        "pub_date": "2026-11-10T04:45:32.977Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.56.0/Howse-0.56.0-win-x64-full-1200fdb2cb12ddcc3f8e91f7c8c6423b36e582009765eeaa766743897c15a1db.nupkg"
+      }
+    }
+  ]
+}
