@@ -2,6 +2,27 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.58.0 — 2026-11-11
+
+## What's new
+- Add common agent instructions shared across all projects and teammates. Saved changes apply from the next run, with explicit priorities for protocol, persona, project and role instructions.
+- Supported Claude Code and Codex sessions receive linked-workspace rules when Howse observes access, reducing unused instructions. The first access can precede rule delivery; other providers retain prompt-time delivery.
+
+## Changes
+- Record workspace rule delivery receipts and measurements to distinguish supplied rules from pending rules.
+
+## 새로운 기능
+- 모든 프로젝트와 동료에게 적용하는 에이전트 공통지침을 추가했습니다. 저장한 변경은 다음 실행부터 적용되며 프로토콜·페르소나·프로젝트·역할 지침의 우선순위를 명시합니다.
+- 지원되는 Claude Code·Codex 세션에서 접근을 관찰한 연결 작업영역의 규칙을 공급해 사용하지 않는 지침을 줄입니다. 첫 접근이 규칙 공급보다 앞설 수 있으며 다른 프로바이더는 시작 프롬프트 공급을 유지합니다.
+
+## 변경 사항
+- 작업영역별 규칙 공급 영수증과 계측을 기록해 공급한 규칙과 대기 중인 규칙을 구분합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.58.0)
+
 ## 0.57.0 — 2026-11-11
 
 ## Changes

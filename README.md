@@ -29,12 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.57.0
+## Latest release: 0.58.0
 
-- In the channel list, Work details and Forwarded messages open the thread at that message.
-- Agents no longer receive duplicated collaboration guidance or recovered message text.
+- Common agent instructions apply across projects with explicit instruction priorities.
+- Supported Claude Code and Codex sessions receive linked-workspace rules after access is observed, with delivery receipts and measurements.
 
-[0.57.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.57.0) · [Changelog](CHANGELOG.md)
+[0.58.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.58.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
