@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.58.0",
+  "releases": [
+    {
+      "version": "0.58.0",
+      "updateTo": {
+        "version": "0.58.0",
+        "name": "Howse 0.58.0",
+        "notes": "## What's new\n- Add common agent instructions shared across all projects and teammates. Saved changes apply from the next run, with explicit priorities for protocol, persona, project and role instructions.\n- Supported Claude Code and Codex sessions receive linked-workspace rules when Howse observes access, reducing unused instructions. The first access can precede rule delivery; other providers retain prompt-time delivery.\n\n## Changes\n- Record workspace rule delivery receipts and measurements to distinguish supplied rules from pending rules.\n\n## 새로운 기능\n- 모든 프로젝트와 동료에게 적용하는 에이전트 공통지침을 추가했습니다. 저장한 변경은 다음 실행부터 적용되며 프로토콜·페르소나·프로젝트·역할 지침의 우선순위를 명시합니다.\n- 지원되는 Claude Code·Codex 세션에서 접근을 관찰한 연결 작업영역의 규칙을 공급해 사용하지 않는 지침을 줄입니다. 첫 접근이 규칙 공급보다 앞설 수 있으며 다른 프로바이더는 시작 프롬프트 공급을 유지합니다.\n\n## 변경 사항\n- 작업영역별 규칙 공급 영수증과 계측을 기록해 공급한 규칙과 대기 중인 규칙을 구분합니다.\n",
+        "pub_date": "2026-11-11T16:37:41.151Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.58.0/Howse-0.58.0-mac-x64-5fe02062fe911c882e9307da51709fa0d99e9e460b1591962bcdde10453b17ec.zip"
+      }
+    }
+  ]
+}
