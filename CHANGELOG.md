@@ -2,6 +2,21 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.57.0 — 2026-11-11
+
+## Changes
+- In the channel list, a message's Work details and Forwarded messages now appear as buttons that open the thread at that message, instead of expanding in place.
+- Agents in threads that keep collaboration records no longer receive duplicated text: collaboration guidance comes only from their system instructions, and messages supplied directly to a freshly recovered session are no longer repeated.
+
+## 변경 사항
+- 채널 목록에서 메시지의 작업 상세와 전달한 원문을 그 자리에서 펼치지 않고, 누르면 스레드의 해당 메시지로 이동하는 버튼으로 표시합니다.
+- 협업 기록을 남기는 스레드의 에이전트가 같은 내용을 중복해서 받지 않습니다. 협업 안내는 시스템 지침에서만 공급하고, 새로 복구한 세션에 직접 공급한 메시지 본문도 반복하지 않습니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.57.0)
+
 ## 0.56.0 — 2026-11-10
 
 ## Changes

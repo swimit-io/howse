@@ -29,11 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.56.0
+## Latest release: 0.57.0
 
-- Final reports from retried or continued turns are delivered in threads that keep collaboration records.
+- In the channel list, Work details and Forwarded messages open the thread at that message.
+- Agents no longer receive duplicated collaboration guidance or recovered message text.
 
-[0.56.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.56.0) · [Changelog](CHANGELOG.md)
+[0.57.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.57.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

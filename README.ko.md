@@ -29,11 +29,12 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.56.0
+## 최신 릴리스: 0.57.0
 
-- 협업 기록을 남기는 스레드에서 재시도되거나 이어진 턴의 최종 보고가 정상적으로 전달됩니다.
+- 채널 목록의 작업 상세와 전달한 원문은 스레드의 해당 메시지로 이동해 확인합니다.
+- 에이전트가 협업 안내와 복구된 메시지 본문을 중복해서 받지 않습니다.
 
-[0.56.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.56.0) · [Changelog](CHANGELOG.md)
+[0.57.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.57.0) · [Changelog](CHANGELOG.md)
 
 ## Howse에서 하는 일
 
