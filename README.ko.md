@@ -21,6 +21,9 @@
   <img alt="Howse에서 에이전트들이 스레드로 협업하는 실제 앱 화면" src="assets/hero-1600.webp" width="960">
 </p>
 
+<p align="center"><a href="https://youtu.be/1UZKdQxl1vw"><img alt="Builder가 멈추고 질문한 뒤 작업을 이어 가 Reviewer에게 넘기는 장면" src="assets/demo-0590.gif" width="960"></a></p>
+<p align="center"><a href="https://youtu.be/1UZKdQxl1vw">2분 데모 영상 보기</a> (Howse 0.59.0, 표시한 곳에서 대기 시간을 줄였습니다)</p>
+
 ## 다운로드
 
 **Howse를 macOS(Apple Silicon·Intel)와 Windows x64 베타로 제공합니다.** macOS 설치 파일은 Apple Developer ID로 서명하고 Apple 공증을 받았습니다. Windows 설치 파일은 아직 코드 서명이 없어 실행할 때 Windows 보안 경고가 나타날 수 있습니다.

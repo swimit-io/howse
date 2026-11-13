@@ -21,6 +21,9 @@
   <img alt="Screenshot of Howse: agents collaborating in a thread" src="assets/hero-1600.webp" width="960">
 </p>
 
+<p align="center"><a href="https://youtu.be/5bQz-tlUfig"><img alt="Builder stops to ask, then continues and hands off to Reviewer" src="assets/demo-0590.gif" width="960"></a></p>
+<p align="center"><a href="https://youtu.be/5bQz-tlUfig">Watch the 2-minute demo</a> (Howse 0.59.0, waiting time cut where marked)</p>
+
 ## Download
 
 **Howse is available for macOS (Apple silicon and Intel) and, as a beta, for Windows x64.** The macOS installers are signed with an Apple Developer ID and notarized by Apple. The Windows installer isn't code-signed yet, so Windows may show a security warning when you run it.
