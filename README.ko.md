@@ -29,12 +29,12 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.58.0
+## 최신 릴리스: 0.59.0
 
-- 모든 프로젝트에 적용하는 에이전트 공통지침과 명시적인 지침 우선순위를 추가했습니다.
-- 지원되는 Claude Code·Codex 세션에서 접근을 관찰한 작업영역의 규칙을 공급하고 공급 영수증과 계측을 기록합니다.
+- 도구별 세션 유지와 동료 대상 역할을 설정하고 역할 초점에 맞춰 복구합니다.
+- 산출물 범위 읽기·검색·부분 수정과 복구 전달·스크롤을 개선했습니다.
 
-[0.58.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.58.0) · [Changelog](CHANGELOG.md)
+[0.59.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.59.0) · [Changelog](CHANGELOG.md)
 
 ## Howse에서 하는 일
 

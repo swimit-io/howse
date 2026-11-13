@@ -2,6 +2,33 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.59.0 — 2026-11-13
+
+## What's new
+- Choose session handling per agent tool: keep sessions, refresh after idle time, or start fresh when completed work and recovery conditions allow.
+- Address specific teammate roles and distinguish recipients from reference-only roles. Fresh-session recovery prioritizes role focus and active records.
+- Read managed documents by contents, section or line range; search a fixed revision and apply sequential partial edits with idempotent revisions.
+
+## Changes
+- Preserve recovery pages, inbox delivery progress and pending hints more accurately; reduce recovery stack growth and repeated context output.
+- Improve collaboration tool input and checkpoint error guidance, and restore bottom detection and automatic following after fractional scrolling.
+- Add cookie-free website visit statistics with updated privacy notices.
+
+## 새로운 기능
+- 실행 도구별로 세션 유지, 유휴 후 교체, 복구 조건을 충족하면 매번 새 세션 시작을 선택합니다.
+- 동료의 대상 역할과 수신·참조 역할을 구분하고 새 세션 복구에서 역할 초점과 활성 기록을 우선 전달합니다.
+- 산출물의 목차·절·줄 범위를 읽고 고정 개정에서 검색하며, 순차 부분 수정과 멱등 개정을 지원합니다.
+
+## 변경 사항
+- 복구 페이지와 inbox 전달 진행·대기 표식을 보존하고 복구 스택 증가와 반복 컨텍스트 출력을 줄입니다.
+- 협업 도구 입력·점검 오류 안내와 소수점 스크롤 후 하단 표시·자동 추적을 개선합니다.
+- 사이트에 쿠키 없는 방문 통계를 추가하고 개인정보 안내를 갱신했습니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.0)
+
 ## 0.58.0 — 2026-11-11
 
 ## What's new

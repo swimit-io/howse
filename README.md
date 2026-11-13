@@ -29,12 +29,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.58.0
+## Latest release: 0.59.0
 
-- Common agent instructions apply across projects with explicit instruction priorities.
-- Supported Claude Code and Codex sessions receive linked-workspace rules after access is observed, with delivery receipts and measurements.
+- Configure session handling per tool, target teammate roles, and recover with role-focused context.
+- Read, search and partially edit managed documents; improve recovery delivery and scrolling.
 
-[0.58.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.58.0) · [Changelog](CHANGELOG.md)
+[0.59.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
