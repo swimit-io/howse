@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.59.1",
+  "releases": [
+    {
+      "version": "0.59.1",
+      "updateTo": {
+        "version": "0.59.1",
+        "name": "Howse 0.59.1",
+        "notes": "## What's new\n- Navigate app-wide views from the global rail and project tasks, context, artifacts, and channels from a dedicated project sidebar.\n- Enjoy the Slate & Sage theme, softer message cards, and coordinated avatar colors in light and dark modes.\n\n## Changes\n- Open project settings beside the project name and keep row menus visible above scrollable lists.\n- Switch between global and project workspaces with detail panels scoped to the selected view.\n\n## 새로운 기능\n- 전역 레일에서 앱 전체 화면을 열고 프로젝트 사이드바에서 작업·컨텍스트·산출물·채널을 탐색합니다.\n- Slate & Sage 테마와 부드러운 메시지 카드, 라이트·다크 모드에 맞춘 아바타 색상을 적용했습니다.\n\n## 변경 사항\n- 프로젝트 이름 옆에서 설정을 열고 스크롤 목록 위로 항목 메뉴를 표시합니다.\n- 전역 화면과 프로젝트 화면 사이를 이동할 때 선택한 화면에 맞게 상세 패널을 정리합니다.\n\nPlatforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).\n지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).\n\n[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.1)\n",
+        "pub_date": "2026-11-16T06:47:48.518Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.59.1/Howse-0.59.1-mac-arm64-8d499905be764906208e433313d9577550174ecc3184950370e79eeb3e0c1c90.zip"
+      }
+    }
+  ]
+}
