@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.59.2",
+  "releases": [
+    {
+      "version": "0.59.2",
+      "updateTo": {
+        "version": "0.59.2",
+        "name": "Howse 0.59.2",
+        "notes": "## Changes\n- Make rail count badges and running indicators easier to distinguish, with project reply and run counts in tooltips.\n- Keep rail tooltips inside the window and show them on keyboard focus; hide them while menus are open or projects are being dragged.\n- Align project menus beside their tiles and retain keyboard commands for project reordering.\n- Refine message labels, selected navigation, and the run bar's visual treatment.\n\n## 변경 사항\n- 레일의 숫자 배지와 실행 표시를 구분하고 프로젝트 툴팁에 응답 대기·실행 수를 표시합니다.\n- 레일 툴팁을 창 안에 배치하고 키보드 초점에서도 표시하며 메뉴 열기·드래그 중에는 숨깁니다.\n- 프로젝트 메뉴를 타일 옆에 배치하고 키보드 메뉴의 순서 이동 기능을 유지합니다.\n- 메시지 라벨·선택한 메뉴·실행바의 표시를 다듬었습니다.\n\nPlatforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).\n지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).\n\n[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.2)\n",
+        "pub_date": "2026-11-16T09:52:20.201Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.59.2/Howse-0.59.2-mac-x64-c82b2d6ff0d947f4679443cf9119e8c48b5c039d4ea7e306abf8f73d3863d090.zip"
+      }
+    }
+  ]
+}
