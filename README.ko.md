@@ -32,12 +32,12 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.59.0
+## 최신 릴리스: 0.59.1
 
-- 도구별 세션 유지와 동료 대상 역할을 설정하고 역할 초점에 맞춰 복구합니다.
-- 산출물 범위 읽기·검색·부분 수정과 복구 전달·스크롤을 개선했습니다.
+- 전역 레일과 프로젝트 사이드바로 화면 탐색을 분리했습니다.
+- Slate & Sage 색상과 부드러운 메시지 카드·아바타를 적용했습니다.
 
-[0.59.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.59.0) · [Changelog](CHANGELOG.md)
+[0.59.1 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.59.1) · [Changelog](CHANGELOG.md)
 
 ## Howse에서 하는 일
 

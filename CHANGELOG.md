@@ -2,6 +2,30 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.59.1 — 2026-11-16
+
+## What's new
+- Navigate app-wide views from the global rail and project tasks, context, artifacts, and channels from a dedicated project sidebar.
+- Enjoy the Slate & Sage theme, softer message cards, and coordinated avatar colors in light and dark modes.
+
+## Changes
+- Open project settings beside the project name and keep row menus visible above scrollable lists.
+- Switch between global and project workspaces with detail panels scoped to the selected view.
+
+## 새로운 기능
+- 전역 레일에서 앱 전체 화면을 열고 프로젝트 사이드바에서 작업·컨텍스트·산출물·채널을 탐색합니다.
+- Slate & Sage 테마와 부드러운 메시지 카드, 라이트·다크 모드에 맞춘 아바타 색상을 적용했습니다.
+
+## 변경 사항
+- 프로젝트 이름 옆에서 설정을 열고 스크롤 목록 위로 항목 메뉴를 표시합니다.
+- 전역 화면과 프로젝트 화면 사이를 이동할 때 선택한 화면에 맞게 상세 패널을 정리합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.1)
+
+
 ## 0.59.0 — 2026-11-13
 
 ## What's new

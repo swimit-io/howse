@@ -32,12 +32,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.59.0
+## Latest release: 0.59.1
 
-- Configure session handling per tool, target teammate roles, and recover with role-focused context.
-- Read, search and partially edit managed documents; improve recovery delivery and scrolling.
+- Navigate global views from the rail and project work from its own sidebar.
+- Refresh the workspace with Slate & Sage colors, soft message cards and coordinated avatars.
 
-[0.59.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.0) · [Changelog](CHANGELOG.md)
+[0.59.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.1) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
