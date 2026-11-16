@@ -2,6 +2,26 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.59.2 — 2026-11-16
+
+## Changes
+- Make rail count badges and running indicators easier to distinguish, with project reply and run counts in tooltips.
+- Keep rail tooltips inside the window and show them on keyboard focus; hide them while menus are open or projects are being dragged.
+- Align project menus beside their tiles and retain keyboard commands for project reordering.
+- Refine message labels, selected navigation, and the run bar's visual treatment.
+
+## 변경 사항
+- 레일의 숫자 배지와 실행 표시를 구분하고 프로젝트 툴팁에 응답 대기·실행 수를 표시합니다.
+- 레일 툴팁을 창 안에 배치하고 키보드 초점에서도 표시하며 메뉴 열기·드래그 중에는 숨깁니다.
+- 프로젝트 메뉴를 타일 옆에 배치하고 키보드 메뉴의 순서 이동 기능을 유지합니다.
+- 메시지 라벨·선택한 메뉴·실행바의 표시를 다듬었습니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.2)
+
+
 ## 0.59.1 — 2026-11-16
 
 ## What's new

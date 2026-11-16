@@ -32,12 +32,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.59.1
+## Latest release: 0.59.2
 
-- Navigate global views from the rail and project work from its own sidebar.
-- Refresh the workspace with Slate & Sage colors, soft message cards and coordinated avatars.
+- Clarify rail badges, running indicators, project tooltips and keyboard navigation.
+- Refine project menus, message labels and the run bar.
 
-[0.59.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.1) · [Changelog](CHANGELOG.md)
+[0.59.2 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.2) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
