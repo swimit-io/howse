@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.60.0",
+  "releases": [
+    {
+      "version": "0.60.0",
+      "updateTo": {
+        "version": "0.60.0",
+        "name": "Howse 0.60.0",
+        "notes": "## Changes\n- Show inherited context records separately in the context panel and refresh records as they change.\n- Recover original recording evidence across continued runs, keep handoffs waiting for unresolved recording decisions, and reuse identical release notices.\n\n## 변경 사항\n- 컨텍스트 패널에 이어받은 기록을 구분해 표시하고 기록 변경을 갱신합니다.\n- 이어진 실행의 기록 원문 증거를 복구하고, 미해결 기록 판단 동안 인계 대기를 유지하며 같은 해제 알림을 재사용합니다.\n",
+        "pub_date": "2026-11-17T13:54:37.341Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.60.0/Howse-0.60.0-mac-x64-98ae93f65d52dff22c3ec4b7afd21b0a16f1ee0eab015abc52f6209fdfce7d42.zip"
+      }
+    }
+  ]
+}
