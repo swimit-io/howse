@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.59.3 — 2026-11-17
+
+## Changes
+- Simplify global navigation to icon-only rail buttons while keeping tooltips and accessible labels.
+- Refine icon, count badge and running indicator placement, and unify sidebar count badges at 16px height.
+- Restore saved sidebar and participant-panel collapsed states before the first workspace render to prevent an initial width jump.
+
+Windows update: 0.59.3 has a different Windows core and ships as a full installer, without a UI patch. Existing Windows 0.59.2 users must install it manually; the app does not offer a full update within the same 0.59 series. macOS keeps its compatible UI patch.
+
+## 변경 사항
+- 전역 레일 메뉴를 아이콘 버튼으로 정리하고 툴팁과 접근성 라벨은 유지합니다.
+- 아이콘·숫자 배지·실행 표시의 배치를 다듬고 사이드바 숫자 배지를 높이 16px로 통일했습니다.
+- 첫 화면을 그리기 전에 사이드바·참여자 패널의 저장된 접힘 상태를 복원해 초기 폭이 튀는 현상을 막습니다.
+
+Windows 업데이트: 0.59.3은 Windows 코어가 달라 UI 패치 없이 전체 설치물로 배포합니다. 기존 Windows 0.59.2 사용자는 수동 설치해야 하며 같은 0.59 계열에서는 앱이 전체 업데이트를 제안하지 않습니다. macOS는 호환 UI 패치를 제공합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+지원 플랫폼: macOS Apple Silicon·Intel(서명·공증), Windows x64(미서명 베타).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.3)
+
+
 ## 0.59.2 — 2026-11-16
 
 ## Changes
