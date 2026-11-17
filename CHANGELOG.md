@@ -2,6 +2,24 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.59.4 — 2026-11-17
+
+## Changes
+- Open a collapsed project menu by hovering over the rail, and pin it from the menu header on wide windows.
+- Keep touch input and other open menus from triggering hover opening; dismiss the temporary menu by leaving, clicking outside, or pressing Escape.
+
+Windows update: the 0.59 series uses full installers without UI patches. Use the new setup file to update manually.
+
+## 변경 사항
+- 레일에 마우스를 올려 접힌 프로젝트 메뉴를 열고, 넓은 창에서는 메뉴 헤더에서 고정할 수 있습니다.
+- 터치 입력이나 다른 메뉴가 열린 동안에는 호버로 열리지 않으며, 영역을 벗어나거나 바깥 클릭·Escape로 임시 메뉴를 닫습니다.
+
+Windows 업데이트: 0.59 시리즈는 UI 패치 없이 전체 설치물을 제공합니다. 새 설치 파일로 수동 업데이트해 주세요.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.59.4)
+
 ## 0.59.3 — 2026-11-17
 
 ## Changes

@@ -32,14 +32,14 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.59.3
+## Latest release: 0.59.4
 
-- Simplify rail menus to icon buttons and unify sidebar count badges.
-- Restore saved panel states before the first render to prevent a width jump.
+- Hover over the rail to open a collapsed project menu temporarily; pin it from the header on wide windows.
+- Dismiss the temporary menu by leaving, clicking outside, or pressing Escape.
 
-Windows 0.59.2 users must install 0.59.3 manually; its different Windows core is distributed as a full installer without a UI patch.
+Windows 0.59 uses full installers without UI patches. Update manually using the new setup file.
 
-[0.59.3 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.3) · [Changelog](CHANGELOG.md)
+[0.59.4 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.4) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
