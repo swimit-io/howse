@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.62.0",
+  "releases": [
+    {
+      "version": "0.62.0",
+      "updateTo": {
+        "version": "0.62.0",
+        "name": "Howse 0.62.0",
+        "notes": "## What's new\n\n- Ask the Butler to inspect or manage agents and Howse settings from a conversation. Changes that affect agent availability, runtime, automatic execution, or app execution controls can require your approval.\n- React to thread messages with 👌, ❤️, 🎉, 🤔, and 👎.\n\n## Changes\n\n- Scan global lists more easily with avatars, clearer text and row dividers, thread titles, and plain-text message previews.\n\n## 새로운 기능\n\n- 대화에서 집사에게 에이전트와 Howse 설정을 확인하거나 관리해 달라고 요청할 수 있습니다. 에이전트 사용 상태·런타임·자동 실행이나 앱 실행 설정에 영향을 주는 변경에는 승인이 필요할 수 있습니다.\n- 스레드 메시지에 👌·❤️·🎉·🤔·👎 반응을 남길 수 있습니다.\n\n## 변경 사항\n\n- 전역 목록의 아바타, 글자 대비와 행 구분을 정리했습니다. 스레드 제목과 일반 텍스트 메시지 미리보기를 목록에서 확인할 수 있습니다.\n",
+        "pub_date": "2026-11-18T18:58:55.757Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.62.0/Howse-0.62.0-mac-x64-dea4894338d81bc2acedc0acd5860429a6fe0696cbcba2f24315b0dd1bf170af.zip"
+      }
+    }
+  ]
+}
