@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.61.1 — 2026-11-18
+
+### What's new
+
+- The global list sidebar starts at 356 px. Resize it with the right-edge divider, and Howse remembers your chosen width on this device.
+
+### Changes
+
+- Keep scrolling available in global lists with the same scrollbar styling as the rest of the app.
+
+### 새로운 기능
+
+- 전역 목록 사이드바의 기본 너비를 356px로 넓혔습니다. 오른쪽 경계에서 너비를 조절할 수 있고, 선택한 너비는 이 기기에 저장됩니다.
+
+### 변경 사항
+
+- 전역 목록의 스크롤 동작을 유지하면서 스크롤바 표시를 앱의 다른 화면과 맞췄습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.61.1)
+
 ## 0.61.0 — 2026-11-18
 
 ### What's new

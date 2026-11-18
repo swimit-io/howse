@@ -32,13 +32,12 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.61.0
+## Latest release: 0.61.1
 
-- Browse Work status, Activity, Threads, and Later in the sidebar and open threads alongside the list.
-- Filter Activity to unread mentions and see which threads have unread mentions.
-- Find written and inherited context records in separate groups and spot the message you jump to more easily.
+- Resize the global list sidebar from its right edge. It starts at 356 px and remembers your chosen width on this device.
+- Global lists keep scrolling with the same scrollbar styling as the rest of Howse.
 
-[0.61.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.61.0) · [Changelog](CHANGELOG.md)
+[0.61.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.61.1) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
