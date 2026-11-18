@@ -2,6 +2,32 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.61.0 — 2026-11-18
+
+### What's new
+
+- Browse Work status, Activity, Threads, and Later in the sidebar. Select a row to open its thread beside the list.
+- Filter Activity to unread mentions and see which threads have unread mentions at a glance.
+
+### Changes
+
+- Group context records by where they were written or inherited and simplify their display.
+- Soften the highlight when jumping to a message, carry it through the sticky header, and clean up the header corners.
+
+### 새로운 기능
+
+- 작업 현황·내 활동·스레드·나중에 보기 목록을 사이드바에서 탐색하고, 항목을 선택해 옆에서 스레드를 엽니다.
+- 내 활동에서 안 읽은 멘션만 보고, 스레드 목록에서는 안 읽은 멘션이 있는 항목을 점으로 확인합니다.
+
+### 변경 사항
+
+- 컨텍스트 목록을 작성한 기록과 이어받은 기록으로 구분하고 표시를 간결하게 정리했습니다.
+- 이동한 메시지와 고정 헤더를 옅은 색으로 강조하고 헤더 모서리의 테두리를 정리했습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.61.0)
+
 ## 0.60.1 — 2026-11-18
 
 ## Changes
