@@ -32,12 +32,13 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.61.1
+## Latest release: 0.62.0
 
-- Resize the global list sidebar from its right edge. It starts at 356 px and remembers your chosen width on this device.
-- Global lists keep scrolling with the same scrollbar styling as the rest of Howse.
+- Ask the Butler to manage agents and Howse settings from a conversation.
+- Add five new message reactions.
+- Scan global lists with clearer rows, avatars, and thread previews.
 
-[0.61.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.61.1) · [Changelog](CHANGELOG.md)
+[0.62.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.62.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

@@ -2,6 +2,30 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.62.0 — 2026-11-18
+
+## What's new
+
+- Ask the Butler to inspect or manage agents and Howse settings from a conversation. Changes that affect agent availability, runtime, automatic execution, or app execution controls can require your approval.
+- React to thread messages with 👌, ❤️, 🎉, 🤔, and 👎.
+
+## Changes
+
+- Scan global lists more easily with avatars, clearer text and row dividers, thread titles, and plain-text message previews.
+
+## 새로운 기능
+
+- 대화에서 집사에게 에이전트와 Howse 설정을 확인하거나 관리해 달라고 요청할 수 있습니다. 에이전트 사용 상태·런타임·자동 실행이나 앱 실행 설정에 영향을 주는 변경에는 승인이 필요할 수 있습니다.
+- 스레드 메시지에 👌·❤️·🎉·🤔·👎 반응을 남길 수 있습니다.
+
+## 변경 사항
+
+- 전역 목록의 아바타, 글자 대비와 행 구분을 정리했습니다. 스레드 제목과 일반 텍스트 메시지 미리보기를 목록에서 확인할 수 있습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.62.0)
+
 ## 0.61.1 — 2026-11-18
 
 ### What's new
