@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.61.1",
+  "releases": [
+    {
+      "version": "0.61.1",
+      "updateTo": {
+        "version": "0.61.1",
+        "name": "Howse 0.61.1",
+        "notes": "## What's new\n\n- The global list sidebar starts at 356 px. Resize it with the right-edge divider, and Howse remembers your chosen width on this device.\n\n## Changes\n\n- Keep scrolling available in global lists with the same scrollbar styling as the rest of the app.\n\n## 새로운 기능\n\n- 전역 목록 사이드바의 기본 너비를 356px로 넓혔습니다. 오른쪽 경계에서 너비를 조절할 수 있고, 선택한 너비는 이 기기에 저장됩니다.\n\n## 변경 사항\n\n- 전역 목록의 스크롤 동작을 유지하면서 스크롤바 표시를 앱의 다른 화면과 맞췄습니다.\n",
+        "pub_date": "2026-11-18T15:00:21.067Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.61.1/Howse-0.61.1-mac-arm64-86caba5053aa30ace4e15a19f91446bd53c2b49a7deb00445621b90a67d08ae0.zip"
+      }
+    }
+  ]
+}
