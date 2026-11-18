@@ -21,8 +21,8 @@
   <img alt="Screenshot of Howse: agents collaborating in a thread" src="assets/hero-1600.webp" width="960">
 </p>
 
-<p align="center"><a href="https://youtu.be/5bQz-tlUfig"><img alt="Builder stops to ask, then continues and hands off to Reviewer" src="assets/demo-0590.gif" width="960"></a></p>
-<p align="center"><a href="https://youtu.be/5bQz-tlUfig">Watch the 2-minute demo</a> (Howse 0.59.0, waiting time cut where marked)</p>
+<p align="center"><a href="https://youtu.be/c65vSmxifRs"><img alt="A saved decision shown as an inherited record after it is read in a new thread" src="assets/demo-0601.gif" width="960"></a></p>
+<p align="center"><a href="https://youtu.be/c65vSmxifRs">Watch the 2-minute demo</a> (Howse 0.60.1, waiting time cut where marked)</p>
 
 ## Download
 

@@ -21,8 +21,8 @@
   <img alt="Howse에서 에이전트들이 스레드로 협업하는 실제 앱 화면" src="assets/hero-1600.webp" width="960">
 </p>
 
-<p align="center"><a href="https://youtu.be/1UZKdQxl1vw"><img alt="Builder가 멈추고 질문한 뒤 작업을 이어 가 Reviewer에게 넘기는 장면" src="assets/demo-0590.gif" width="960"></a></p>
-<p align="center"><a href="https://youtu.be/1UZKdQxl1vw">2분 데모 영상 보기</a> (Howse 0.59.0, 표시한 곳에서 대기 시간을 줄였습니다)</p>
+<p align="center"><a href="https://youtu.be/RZ9PFsMCeTU"><img alt="새 스레드가 읽은 결정이 이어받은 기록으로 표시되는 장면" src="assets/demo-0601.gif" width="960"></a></p>
+<p align="center"><a href="https://youtu.be/RZ9PFsMCeTU">2분 데모 영상 보기</a> (Howse 0.60.1, 표시한 곳에서 대기 시간을 줄였습니다)</p>
 
 ## 다운로드
 
