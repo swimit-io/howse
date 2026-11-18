@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.61.0",
+  "releases": [
+    {
+      "version": "0.61.0",
+      "updateTo": {
+        "version": "0.61.0",
+        "name": "Howse 0.61.0",
+        "notes": "## What's new\n\n- Browse Work status, Activity, Threads, and Later in the sidebar. Select a row to open its thread beside the list.\n- Filter Activity to unread mentions and see which threads have unread mentions at a glance.\n\n## Changes\n\n- Group context records by where they were written or inherited and simplify their display.\n- Soften the highlight when jumping to a message, carry it through the sticky header, and clean up the header corners.\n\n## 새로운 기능\n\n- 작업 현황·내 활동·스레드·나중에 보기 목록을 사이드바에서 탐색하고, 항목을 선택해 옆에서 스레드를 엽니다.\n- 내 활동에서 안 읽은 멘션만 보고, 스레드 목록에서는 안 읽은 멘션이 있는 항목을 점으로 확인합니다.\n\n## 변경 사항\n\n- 컨텍스트 목록을 작성한 기록과 이어받은 기록으로 구분하고 표시를 간결하게 정리했습니다.\n- 이동한 메시지와 고정 헤더를 옅은 색으로 강조하고 헤더 모서리의 테두리를 정리했습니다.\n",
+        "pub_date": "2026-11-18T13:27:29.266Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.61.0/Howse-0.61.0-mac-x64-118094834a1f4a135a64bc95cbba00020f9068a3c66a29df5acc05aca90cafc7.zip"
+      }
+    }
+  ]
+}
