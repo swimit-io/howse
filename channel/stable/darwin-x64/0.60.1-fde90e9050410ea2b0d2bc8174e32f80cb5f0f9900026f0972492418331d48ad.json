@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.60.1",
+  "releases": [
+    {
+      "version": "0.60.1",
+      "updateTo": {
+        "version": "0.60.1",
+        "name": "Howse 0.60.1",
+        "notes": "## Changes\n- Present channel messages as flat rows and refine thread metadata and sticky headers.\n- Select the matching project and channel when opening a thread from Activity.\n- Keep sidebar count badges above activity spinners.\n\n## 변경 사항\n- 채널 메시지를 평면 행으로 표시하고 스레드 메타와 고정 헤더를 정리합니다.\n- 활동에서 스레드를 열면 해당 프로젝트와 채널도 함께 선택합니다.\n- 좌측 메뉴의 숫자 뱃지를 실행 스피너 위에 표시합니다.\n",
+        "pub_date": "2026-11-18T01:50:53.483Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.60.1/Howse-0.60.1-mac-x64-fde90e9050410ea2b0d2bc8174e32f80cb5f0f9900026f0972492418331d48ad.zip"
+      }
+    }
+  ]
+}
