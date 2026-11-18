@@ -32,14 +32,13 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.59.4
+## Latest release: 0.60.1
 
-- Hover over the rail to open a collapsed project menu temporarily; pin it from the header on wide windows.
-- Dismiss the temporary menu by leaving, clicking outside, or pressing Escape.
+- Flat channel rows and clearer thread metadata and sticky headers.
+- Opening threads from Activity selects their project and channel.
+- Count badges remain visible above activity spinners.
 
-Windows 0.59 uses full installers without UI patches. Update manually using the new setup file.
-
-[0.59.4 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.59.4) · [Changelog](CHANGELOG.md)
+[0.60.1 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.60.1) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

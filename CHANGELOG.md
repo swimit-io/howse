@@ -2,6 +2,38 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.60.1 — 2026-11-18
+
+## Changes
+- Present channel messages as flat rows and refine thread metadata and sticky headers.
+- Select the matching project and channel when opening a thread from Activity.
+- Keep sidebar count badges above activity spinners.
+
+## 변경 사항
+- 채널 메시지를 평면 행으로 표시하고 스레드 메타와 고정 헤더를 정리합니다.
+- 활동에서 스레드를 열면 해당 프로젝트와 채널도 함께 선택합니다.
+- 좌측 메뉴의 숫자 뱃지를 실행 스피너 위에 표시합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized); Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.60.1)
+
+## 0.60.0 — 2026-11-17
+
+## Changes
+- Show inherited context records separately in the context panel and refresh records as they change.
+- Recover original recording evidence across continued runs, keep handoffs waiting for unresolved recording decisions, and reuse identical release notices.
+
+## 변경 사항
+- 컨텍스트 패널에 이어받은 기록을 구분해 표시하고 기록 변경을 갱신합니다.
+- 이어진 실행의 기록 원문 증거를 복구하고, 미해결 기록 판단 동안 인계 대기를 유지하며 같은 해제 알림을 재사용합니다.
+
+Platforms: macOS Apple Silicon / Intel (signed and notarized). Windows 0.60.0 was not published; Windows users receive these changes in 0.60.1.
+
+Windows 0.60.0은 공개하지 않았으며, 해당 변경은 Windows 0.60.1에 포함됩니다.
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.60.0)
+
 ## 0.59.4 — 2026-11-17
 
 ## Changes
