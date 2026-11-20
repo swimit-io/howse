@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.63.0",
+  "releases": [
+    {
+      "version": "0.63.0",
+      "updateTo": {
+        "version": "0.63.0",
+        "name": "Howse 0.63.0",
+        "notes": "## Changes\n\n- See consistent role status across threads and Work Status, including which roles are running or waiting.\n- Send follow-up input while a task waits for teammates. The task keeps its pending handoffs across runs and clears a wait when a teammate finishes without a result.\n- Fixed the Butler's ability to call its management tools over HTTP.\n\n## 변경 사항\n\n- 스레드와 작업현황에서 실행 중인지, 응답을 기다리는지 등 같은 역할 상태를 확인할 수 있습니다.\n- 동료 결과를 기다리는 작업에 후속 메시지를 보내도 실행 간에 대기가 이어집니다. 동료 작업이 결과 없이 끝나면 해당 동료에 대한 대기는 종료됩니다.\n- 집사가 HTTP를 통해 에이전트와 설정 관리 도구를 호출하지 못하던 문제를 수정했습니다.\n",
+        "pub_date": "2026-11-20T06:44:09.561Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.63.0/Howse-0.63.0-mac-x64-1834728c6892ed43c71480c355375458b1f61e0af9dbf7c719521de98454b4fb.zip"
+      }
+    }
+  ]
+}
