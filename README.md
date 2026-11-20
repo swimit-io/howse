@@ -32,13 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.62.0
+## Latest release: 0.63.0
 
-- Ask the Butler to manage agents and Howse settings from a conversation.
-- Add five new message reactions.
-- Scan global lists with clearer rows, avatars, and thread previews.
+- See consistent role status across threads and Work Status. Tasks waiting for teammates carry that wait across follow-ups, and the Butler can call its management tools over HTTP.
 
-[0.62.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.62.0) · [Changelog](CHANGELOG.md)
+[0.63.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.63.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

@@ -2,6 +2,24 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.63.0 — 2026-11-20
+
+### Changes
+
+- See consistent role status across threads and Work Status, including which roles are running or waiting.
+- Send follow-up input while a task waits for teammates. The task keeps its pending handoffs across runs and clears a wait when a teammate finishes without a result.
+- Fixed the Butler's ability to call its management tools over HTTP.
+
+### 변경 사항
+
+- 스레드와 작업현황에서 실행 중인지, 응답을 기다리는지 등 같은 역할 상태를 확인할 수 있습니다.
+- 동료 결과를 기다리는 작업에 후속 메시지를 보내도 실행 간에 대기가 이어집니다. 동료 작업이 결과 없이 끝나면 해당 동료에 대한 대기는 종료됩니다.
+- 집사가 HTTP를 통해 에이전트와 설정 관리 도구를 호출하지 못하던 문제를 수정했습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.63.0)
+
 ## 0.62.0 — 2026-11-18
 
 ## What's new
