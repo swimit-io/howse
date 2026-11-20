@@ -2,6 +2,22 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.64.0 — 2026-11-20
+
+### Changes
+
+- Fixed tasks waiting on teammates so they stay in the correct waiting state and resume when the remaining handoffs finish.
+- The selection border now outlines the entire reply request card in a thread, including its reply area.
+
+### 변경 사항
+
+- 동료에게 넘긴 작업의 결과를 기다릴 때 대기 상태가 올바르게 표시되고, 남은 위임이 끝나면 같은 작업이 재개되도록 수정했습니다.
+- 스레드에서 답변 요청 카드를 선택하면 답변란을 포함한 카드 전체에 선택 테두리가 표시됩니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.64.0)
+
 ## 0.63.0 — 2026-11-20
 
 ### Changes

@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.63.0
+## Latest release: 0.64.0
 
-- See consistent role status across threads and Work Status. Tasks waiting for teammates carry that wait across follow-ups, and the Butler can call its management tools over HTTP.
+- Fixed task resumption after teammate handoffs and made the selection border visible around the entire reply request card.
 
-[0.63.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.63.0) · [Changelog](CHANGELOG.md)
+[0.64.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.64.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
