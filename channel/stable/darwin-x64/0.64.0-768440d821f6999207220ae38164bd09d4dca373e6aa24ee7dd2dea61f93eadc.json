@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.64.0",
+  "releases": [
+    {
+      "version": "0.64.0",
+      "updateTo": {
+        "version": "0.64.0",
+        "name": "Howse 0.64.0",
+        "notes": "## Changes\n\n- Fixed tasks waiting on teammates so they stay in the correct waiting state and resume when the remaining handoffs finish.\n- The selection border now outlines the entire reply request card in a thread, including its reply area.\n\n## 변경 사항\n\n- 동료에게 넘긴 작업의 결과를 기다릴 때 대기 상태가 올바르게 표시되고, 남은 위임이 끝나면 같은 작업이 재개되도록 수정했습니다.\n- 스레드에서 답변 요청 카드를 선택하면 답변란을 포함한 카드 전체에 선택 테두리가 표시됩니다.\n",
+        "pub_date": "2026-11-20T15:46:50.517Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.64.0/Howse-0.64.0-mac-x64-768440d821f6999207220ae38164bd09d4dca373e6aa24ee7dd2dea61f93eadc.zip"
+      }
+    }
+  ]
+}
