@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.64.0
+## Latest release: 0.65.0
 
-- Fixed task resumption after teammate handoffs and made the selection border visible around the entire reply request card.
+- Selected messages use a consistent 1-pixel border around the whole card. Collaboration inputs and agent sessions require less work to deliver and recover.
 
-[0.64.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.64.0) · [Changelog](CHANGELOG.md)
+[0.65.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.65.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

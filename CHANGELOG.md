@@ -2,6 +2,22 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.65.0 — 2026-11-23
+
+### Changes
+
+- Selected messages now use a consistent 1-pixel border around the entire card, including reply requests.
+- Reduced the work needed to deliver collaboration inputs and recover agent sessions. Continued runs now identify their new inputs separately.
+
+### 변경 사항
+
+- 답변 요청을 포함해 선택한 메시지 카드 전체를 일관된 1px 테두리로 표시합니다.
+- 협업 입력 전달과 에이전트 세션 복구에 드는 처리를 줄였습니다. 이어지는 실행은 새 입력을 구분합니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.65.0)
+
 ## 0.64.0 — 2026-11-20
 
 ### Changes
