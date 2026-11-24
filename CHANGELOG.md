@@ -2,6 +2,30 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.66.0 — 2026-11-24
+
+### What's new
+
+- Howse opens a window with a progress indicator while it prepares your workspace.
+
+### Changes
+
+- Reduced the amount of collaboration history and agent session data Howse needs to read during startup. Some older collaboration records are processed after the app opens.
+- Improved how Howse quits during startup and how it recovers delegated results and artifact attachments after interrupted runs.
+
+### 새로운 기능
+
+- 작업 공간을 준비하는 동안에도 Howse 창이 열리고 진행 상태가 표시됩니다.
+
+### 변경 사항
+
+- 기동 시 읽는 협업 기록과 에이전트 세션 데이터를 줄였습니다. 일부 이전 협업 기록은 앱이 열린 뒤 처리합니다.
+- 기동 중 앱을 종료하는 동작과 중단된 실행의 위임 결과 및 아티팩트 첨부 복구를 개선했습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.66.0)
+
 ## 0.65.0 — 2026-11-23
 
 ### Changes
