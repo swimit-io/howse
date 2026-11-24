@@ -2,6 +2,30 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.67.0 — 2026-11-24
+
+### What's new
+
+- Browse the workspace and existing conversations while Howse restores work state. The sidebar shows when recovery is in progress.
+
+### Changes
+
+- Reduced the work Howse does during startup to load run history, messages, and unread mentions.
+- Improved startup recovery when the app window cannot report readiness and kept agent tool requests available while a saved task retries startup.
+
+### 새로운 기능
+
+- 작업 상태를 복구하는 동안에도 작업 공간과 기존 대화를 살펴볼 수 있습니다. 복구 중에는 사이드바에 상태를 표시합니다.
+
+### 변경 사항
+
+- 기동 시 실행 이력, 메시지, 읽지 않은 멘션을 불러오는 작업을 줄였습니다.
+- 앱 창이 준비 상태를 알리지 못해도 기동 복구가 이어지도록 개선했습니다. 저장 작업 실행을 재시도하는 동안에도 에이전트 도구 요청을 처리합니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.67.0)
+
 ## 0.66.0 — 2026-11-24
 
 ### What's new

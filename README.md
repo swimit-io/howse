@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.66.0
+## Latest release: 0.67.0
 
-- Howse now shows startup progress while it prepares your workspace. Startup recovery reads less collaboration history and agent session data.
+- Browse the workspace and existing conversations while Howse restores work state. Startup loads run history, messages, and unread mentions with less work.
 
-[0.66.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.66.0) · [Changelog](CHANGELOG.md)
+[0.67.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.67.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
