@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.67.0
+## Latest release: 0.68.0
 
-- Browse the workspace and existing conversations while Howse restores work state. Startup loads run history, messages, and unread mentions with less work.
+- Fixed session stop and retry handling. Disabled agents can finish existing sessions. Howse now asks you to choose a different folder if it detects Bureau data.
 
-[0.67.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.67.0) · [Changelog](CHANGELOG.md)
+[0.68.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.68.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

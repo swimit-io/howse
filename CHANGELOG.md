@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.68.0 — 2026-11-25
+
+## Changes
+
+- Fixed stop and retry handling. If you stop a message session that a parent task is waiting on, the parent stays waiting so the stopped session can be retried.
+- Disabled agents can finish existing sessions. New mentions and handoffs remain unavailable until the agent is enabled again.
+- Fixed how authenticated remote assignments are treated when runs finish.
+- Edited task titles and revision notices now appear in the context shown to agents. Conversation text preserves tildes used to show ranges.
+- Removed the Bureau migration tool. If startup detects a Bureau data folder, Howse asks you to choose another folder.
+
+## 변경 사항
+
+- 중단과 재시도 처리를 수정했습니다. 상위 작업이 기다리는 메시지 세션을 중단해도 상위 작업은 대기를 유지하므로 해당 세션을 재시도할 수 있습니다.
+- 비활성화된 에이전트도 기존 세션을 마무리할 수 있습니다. 새 멘션과 인계는 에이전트를 다시 활성화한 뒤 사용할 수 있습니다.
+- 인증된 원격 요청의 실행이 끝날 때 결과를 처리하는 방식을 수정했습니다.
+- 에이전트에 제공되는 컨텍스트에 편집한 작업 제목과 개정 안내가 반영됩니다. 대화 텍스트에서 범위를 나타내는 물결표도 그대로 표시됩니다.
+- Bureau 이관 도구를 제거했습니다. 기동 중 Bureau 데이터 폴더가 감지되면 다른 폴더를 선택하도록 안내합니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.68.0)
+
 ## 0.67.0 — 2026-11-24
 
 ### What's new
