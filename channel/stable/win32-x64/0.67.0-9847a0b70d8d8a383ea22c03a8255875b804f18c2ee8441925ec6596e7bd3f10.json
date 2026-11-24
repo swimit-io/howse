@@ -1,0 +1,15 @@
+{
+  "currentRelease": "0.67.0",
+  "releases": [
+    {
+      "version": "0.67.0",
+      "updateTo": {
+        "version": "0.67.0",
+        "name": "Howse 0.67.0",
+        "notes": "## What's new\n\n- Browse the workspace and existing conversations while Howse restores work state. The sidebar shows when recovery is in progress.\n\n## Changes\n\n- Reduced the work Howse does during startup to load run history, messages, and unread mentions.\n- Improved startup recovery when the app window cannot report readiness and kept agent tool requests available while a saved task retries startup.\n\n## 새로운 기능\n\n- 작업 상태를 복구하는 동안에도 작업 공간과 기존 대화를 살펴볼 수 있습니다. 복구 중에는 사이드바에 상태를 표시합니다.\n\n## 변경 사항\n\n- 기동 시 실행 이력, 메시지, 읽지 않은 멘션을 불러오는 작업을 줄였습니다.\n- 앱 창이 준비 상태를 알리지 못해도 기동 복구가 이어지도록 개선했습니다. 저장 작업 실행을 재시도하는 동안에도 에이전트 도구 요청을 처리합니다.\n",
+        "pub_date": "2026-11-24T07:05:54.553Z",
+        "url": "https://github.com/swimit-io/howse/releases/download/v0.67.0/Howse-0.67.0-win-x64-full-9847a0b70d8d8a383ea22c03a8255875b804f18c2ee8441925ec6596e7bd3f10.nupkg"
+      }
+    }
+  ]
+}
