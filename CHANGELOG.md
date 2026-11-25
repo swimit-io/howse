@@ -2,6 +2,22 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.69.0 — 2026-11-26
+
+## Changes
+
+- Fixed a startup check that could prevent the clerk from resuming an existing session.
+- Recording candidates stay pending if the clerk fails before receiving them. The thread still shows the failed run, and you can retry it.
+
+## 변경 사항
+
+- 서기가 기존 세션을 재개하지 못하게 하던 시작 검사를 수정했습니다.
+- 서기가 후보를 받기 전에 실행이 실패하면 기록 후보는 대기 상태로 남습니다. 스레드에서 실패한 실행을 확인하고 다시 시도할 수 있습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.69.0)
+
 ## 0.68.0 — 2026-11-25
 
 ## Changes

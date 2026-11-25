@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.68.0
+## Latest release: 0.69.0
 
-- Fixed session stop and retry handling. Disabled agents can finish existing sessions. Howse now asks you to choose a different folder if it detects Bureau data.
+- Fixed an issue that could block the context clerk from resuming an existing session. If a run fails before the clerk receives a candidate, the candidate stays pending.
 
-[0.68.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.68.0) · [Changelog](CHANGELOG.md)
+[0.69.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.69.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
