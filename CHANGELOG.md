@@ -2,6 +2,28 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.70.0 — 2026-11-26
+
+## What's new
+
+- Settings → Agent tools now shows subscription usage for Claude Code, Codex, Antigravity, and GitHub Copilot when the CLI reports it. See how much of each allowance you have used and when it resets.
+
+## Changes
+
+- The user guide explains how to retry a failed clerk run from its thread.
+
+## 새 기능
+
+- 설정 → 에이전트 도구에서 Claude Code, Codex, Antigravity, GitHub Copilot의 구독 사용량을 확인할 수 있습니다. CLI가 정보를 제공하면 한도별 사용 비율과 초기화 시각을 표시합니다.
+
+## 변경 사항
+
+- 사용자 가이드에 스레드에서 실패한 서기 실행을 다시 시도하는 방법을 추가했습니다.
+
+Available for macOS Apple Silicon and Intel (signed and notarized) and Windows x64 (unsigned beta).
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.70.0)
+
 ## 0.69.0 — 2026-11-26
 
 ## Changes

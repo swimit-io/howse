@@ -32,11 +32,11 @@
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.69.0
+## Latest release: 0.70.0
 
-- Fixed an issue that could block the context clerk from resuming an existing session. If a run fails before the clerk receives a candidate, the candidate stays pending.
+- Settings → Agent tools shows subscription usage and reset times for Claude Code, Codex, Antigravity, and GitHub Copilot when available.
 
-[0.69.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.69.0) · [Changelog](CHANGELOG.md)
+[0.70.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 

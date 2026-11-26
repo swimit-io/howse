@@ -32,11 +32,11 @@
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.69.0
+## 최신 릴리스: 0.70.0
 
-- 서기가 기존 세션을 재개하지 못하던 문제를 수정했습니다. 서기가 후보를 받기 전에 실행이 실패하면 후보는 대기 상태로 남습니다.
+- 설정 → 에이전트 도구에서 Claude Code, Codex, Antigravity, GitHub Copilot이 제공하는 구독 사용량과 초기화 시각을 확인할 수 있습니다.
 
-[0.69.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.69.0) · [변경 이력](CHANGELOG.md)
+[0.70.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [변경 이력](CHANGELOG.md)
 
 ## Howse에서 하는 일
 
