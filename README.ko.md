@@ -28,15 +28,15 @@
 
 **Howse를 macOS(Apple Silicon·Intel)와 Windows x64 베타로 제공합니다.** macOS 설치 파일은 Apple Developer ID로 서명하고 Apple 공증을 받았습니다. Windows 설치 파일은 아직 코드 서명이 없어 실행할 때 Windows 보안 경고가 나타날 수 있습니다.
 
-[최신 릴리스 내려받기](https://github.com/swimit-io/howse/releases/latest) · [설치 안내](https://howse.swimit.io/ko/docs/install/)
+[macOS 0.71.0](https://github.com/swimit-io/howse/releases/tag/v0.71.0) · [Windows x64 베타 0.70.0](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [설치 안내](https://howse.swimit.io/ko/docs/install/)
 
 설치한 뒤에는 Howse가 이 저장소에서 업데이트를 확인합니다. core가 같은 UI 전용 패치는 재시작 없이 자동 적용됩니다. native core 수정을 포함한 전체 앱 업데이트는 재시작 후 적용됩니다.
 
-## 최신 릴리스: 0.70.0
+## 최신 릴리스: 0.71.0 (macOS)
 
-- 설정 → 에이전트 도구에서 Claude Code, Codex, Antigravity, GitHub Copilot이 제공하는 구독 사용량과 초기화 시각을 확인할 수 있습니다.
+- 집사의 자동응답과 자동전달을 각각 설정하고, 프로젝트 동료 설정을 기본값으로 복원하고, 앱 종료로 중단된 실행을 이어서 진행하거나 취소할 수 있습니다.
 
-[0.70.0 변경 사항과 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [변경 이력](CHANGELOG.md)
+[0.71.0 변경 사항과 macOS 다운로드](https://github.com/swimit-io/howse/releases/tag/v0.71.0) · [변경 이력](CHANGELOG.md)
 
 ## Howse에서 하는 일
 

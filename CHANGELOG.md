@@ -2,6 +2,34 @@
 
 All notable changes to Howse are listed here. Installers and SHA-256 checksums for each version are on [GitHub Releases](https://github.com/swimit-io/howse/releases).
 
+## 0.71.0 — 2026-11-27
+
+### What's new
+
+- Set the Butler’s automatic response and automatic forwarding separately.
+- See which agent settings a project inherits, and reset individual fields or all project overrides to their defaults.
+
+### Changes
+
+- After quitting Howse, choose whether to resume or cancel each interrupted run. Startup recovery continues if a saved wait record cannot be read.
+- Archived channels enforce read-only access. Settings changes now appear across open windows, and role session handling settings save correctly.
+- Inline text artifacts are checked for valid UTF-8.
+- This release is available for Apple Silicon and Intel Macs. Windows remains on 0.70.0.
+
+### 새 기능
+
+- 집사의 자동응답과 자동전달을 각각 설정할 수 있습니다.
+- 프로젝트가 상속하는 에이전트 설정을 확인하고, 개별 항목이나 프로젝트별 설정 전체를 기본값으로 되돌릴 수 있습니다.
+
+### 변경 사항
+
+- 앱을 닫아 중단된 실행은 다시 열었을 때 이어서 실행하거나 취소할 수 있습니다. 읽을 수 없는 대기 기록이 있어도 나머지 기동 복구는 계속합니다.
+- 보관된 채널에 대한 쓰기를 차단하고, 설정 변경을 열려 있는 다른 창에도 반영합니다. 역할 세션 처리 설정이 정상적으로 저장되도록 수정했습니다.
+- 메시지에 첨부된 텍스트 아티팩트가 올바른 UTF-8인지 확인합니다.
+- 이번 릴리스는 Apple Silicon과 Intel Mac용입니다. Windows는 0.70.0을 유지합니다.
+
+[Downloads and checksums / 다운로드 및 체크섬](https://github.com/swimit-io/howse/releases/tag/v0.71.0)
+
 ## 0.70.0 — 2026-11-26
 
 ## What's new

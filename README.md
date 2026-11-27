@@ -28,15 +28,15 @@
 
 **Howse is available for macOS (Apple silicon and Intel) and, as a beta, for Windows x64.** The macOS installers are signed with an Apple Developer ID and notarized by Apple. The Windows installer isn't code-signed yet, so Windows may show a security warning when you run it.
 
-[Download the latest release](https://github.com/swimit-io/howse/releases/latest) · [Installation guide](https://howse.swimit.io/docs/install/)
+[macOS 0.71.0](https://github.com/swimit-io/howse/releases/tag/v0.71.0) · [Windows x64 beta 0.70.0](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [Installation guide](https://howse.swimit.io/docs/install/)
 
 Once installed, Howse checks this repository for updates. Compatible UI-only patches apply automatically without restarting. Full app updates, including native-core fixes, take effect after a restart.
 
-## Latest release: 0.70.0
+## Latest release: 0.71.0 (macOS)
 
-- Settings → Agent tools shows subscription usage and reset times for Claude Code, Codex, Antigravity, and GitHub Copilot when available.
+- Configure Butler automatic response and forwarding separately, reset project agent settings to their defaults, and choose how to handle runs interrupted by quitting.
 
-[0.70.0 changes and downloads](https://github.com/swimit-io/howse/releases/tag/v0.70.0) · [Changelog](CHANGELOG.md)
+[0.71.0 changes and macOS downloads](https://github.com/swimit-io/howse/releases/tag/v0.71.0) · [Changelog](CHANGELOG.md)
 
 ## What Howse does
 
